@@ -2,28 +2,23 @@
   "_lang": "vi",
   "_native": "Tiếng Việt",
   "_file": "vi.html",
-
   "title": "Tuyến Chặn Lửa — phòng vệ cháy rừng cách nhà 30–100 m",
   "description": "Một tuyến phòng vệ cháy rừng tự động, đặt cách nhà 30 đến 100 mét. Đã thiết kế, đã tính chi phí và sẵn sàng thi công — chúng tôi đang tìm đối tác xây dựng tuyến đầu tiên.",
-
   "brand_html": "Tuyến <span>Chặn Lửa</span>",
   "nav_gap": "Khoảng trống",
   "nav_system": "Hệ thống",
   "nav_offer": "Hợp tác",
   "nav_team": "Chúng tôi là ai",
   "nav_lang": "Ngôn ngữ",
-
   "hero_eyebrow": "Kỹ thuật phòng vệ cháy rừng · Châu Âu · Hoa Kỳ · Đông Nam Á",
   "hero_h1": "Ai cũng bảo vệ ngôi nhà. Chúng tôi chặn lửa <em>trước khi nó tới đó</em>.",
   "hero_lead1": "Một tuyến phòng vệ tự động, cách nhà 30 đến 100 mét: một dải ướt liên tục tự hình thành ngay khi đầu ngọn lửa tiến đến — bằng nguồn nước riêng, điện mặt trời riêng, với chất chữa cháy không chứa flo, và không cần ai có mặt tại chỗ.",
   "hero_lead2": "Phần kỹ thuật đã xong. Chi phí đã được mô hình hóa. Thứ chúng tôi tìm là đối tác xây dựng tuyến đầu tiên.",
   "hero_btn1": "Chúng tôi mang gì, cần gì",
   "hero_btn2": "Hệ thống hoạt động ra sao",
-
   "gap_kicker": "Khoảng trống",
   "gap_h2": "Hai câu hỏi quyết định tất cả: cách bao xa, và khi nào.",
   "gap_big": "Mọi sản phẩm chống cháy rừng trên thị trường đều trả lời hai câu hỏi đó — và gần như tất cả đều trả lời giống nhau: <strong>ngay tại ngôi nhà, và khi lửa đã tới nơi.</strong> Đặt cả ngành lên hai trục đó, sẽ hiện ra một ô trống.",
-
   "svg_aria": "Mặt cắt từ vùng cây bụi tới ngôi nhà, cho thấy mỗi hướng bảo vệ tác động ở đâu",
   "svg_firefront": "Đầu ngọn lửa",
   "svg_band_title": "Dải ướt liên tục · 22 m",
@@ -34,9 +29,7 @@
   "svg_matrix": "Matrix Wildfire — dải xử lý, trước hàng tháng",
   "svg_us": "Chúng tôi — làm ướt, đúng lúc đầu lửa tới",
   "svg_structure": "Frontline, waveGUARD, House Water Dome — công trình",
-
   "gap_figcaption": "Mỗi hướng bảo vệ tác động ở đâu. Dải xử lý được phun trước hàng tháng và sẽ phân hủy; các hệ thống gắn trên nhà phủ lên công trình khi lửa đã vào tới thửa đất; các đội cơ động thì phải chạy tới kịp. Dải ở 30–100 m tự hình thành đúng vào lúc đầu lửa chạm tới nó — và ô đó hôm nay còn trống.",
-
   "gap_th1": "Tác động khi nào",
   "gap_th2": "Ai",
   "gap_th3": "Giới hạn",
@@ -52,11 +45,9 @@
   "gap_r4c1": "Ngay lúc đó",
   "gap_r4c2": "Tuyến Chặn Lửa",
   "gap_r4c3": "Hôm nay chưa ai phủ được chỗ này",
-
   "gap_note1_lead": "Ý tưởng này không phải do chúng tôi nghĩ ra, và chúng tôi nói điều đó trước tiên.",
   "gap_note1": "Ở Tây Ban Nha, Medi XXI đã xây dựng hệ phòng vệ vành đai bằng súng phun nước quanh các khu dân cư từ năm 2006 và có bằng sáng chế đã được cấp. Ở Pháp, STME FIRE đang chạy một chương trình nghiên cứu đúng về việc này. Ở Bồ Đào Nha, các nhà nghiên cứu đại học đã vây quanh một ngôi làng bằng mười hai cột phun nước vào năm 2020. Ở Hoa Kỳ, hai công ty đã gọi được vốn đang dựng các hàng rào ở quy mô công nghiệp.",
   "gap_note2": "Thứ chưa ai làm lại đúng là phần chúng tôi đã thiết kế: <strong>một tuyến chặn lửa đủ nhỏ, đủ rẻ và đủ tự động để một ngôi nhà hoặc một con phố có thể mua được</strong> — một dải liên tục tạo bởi nhiều đầu phun nhỏ thay vì vài khẩu súng nước lớn, kích hoạt kép, độc lập về năng lượng, và dùng chất chữa cháy hôm nay đã đáp ứng lệnh cấm bọt chứa flo của châu Âu từ năm 2030.",
-
   "sys_kicker": "Hệ thống",
   "sys_h2": "Một tuyến đứng khô suốt cả năm và tự làm ướt mình trong chín mươi giây.",
   "sys_c1_h": "Liên tục, không rời rạc",
@@ -71,7 +62,6 @@
   "sys_c5_p": "Các đầu dò lửa cho biết đầu lửa đến từ cung nào, nên chỉ khu đó chạy, cộng thêm hai cột dự phòng. Nước dùng được lâu gấp hai đến ba lần.",
   "sys_c6_h": "Ghi lại mọi thứ",
   "sys_c6_p": "Thời điểm khởi động, áp suất, lượng nước tiêu thụ, nhiệt độ, gió, thời gian chạy. Công ty bảo hiểm định giá những gì họ mô hình hóa được — nên tuyến này tạo ra bằng chứng ngay từ ngày đầu.",
-
   "sys_h3_phases": "Hoạt động ra sao — qua năm giai đoạn",
   "sys_p1_label": "Chờ, quanh năm",
   "sys_p1_p": "Tuyến đứng khô. Mỗi tuần một lần tự kiểm tra sẽ đảo các van, tấm pin mặt trời giữ ắc quy đầy, bể vẫn đầy nước. Không có gì chạy vô ích — và chính hệ đường ống đó có thể dùng để tưới.",
@@ -85,7 +75,6 @@
   "sys_p5_p": "Ít nhất bốn giờ từ bể của chính nó. Khu đang hoạt động bám theo đầu lửa khi nó đi qua, và dải vẫn tiếp tục làm nguội mặt đất sau khi ngọn lửa đã đi — chính điều đó chặn được cháy bùng lại.",
   "sys_p6_label": "Sau đó",
   "sys_p6_p": "Một báo cáo sự kiện: thời điểm khởi động, thời gian chạy, áp suất, nước và chất chữa cháy đã dùng, nhiệt độ và gió. Đây là hồ sơ mà một công ty bảo hiểm có thể mô hình hóa — và là lý do bằng chứng có sẵn ngay từ đám cháy đầu tiên.",
-
   "sys_h3_installed": "Thực tế lắp đặt những gì",
   "inst_th1": "Trên mặt đất",
   "inst_th2": "Dưới mặt đất",
@@ -94,7 +83,6 @@
   "inst_td2": "Ống chính HDPE chôn sâu 0,45–0,5 m<br>Ống kim loại ở mọi chỗ nhô lên mặt đất<br>Van phân đoạn theo từng cung<br>Rãnh thu gom đưa phần nước chưa bốc hơi trở lại bể",
   "inst_td3": "Bể, tính theo loại thảm thực vật<br>Bơm điện cộng bơm dự phòng chạy dầu tự khởi động<br>Tấm pin mặt trời, ắc quy LiFePO4 trong tủ chống cháy<br>Bộ định lượng bọt 0,1–1 % và bể chứa dung dịch đậm đặc<br>Bộ điều khiển: 4G, đầu thu cảnh báo vệ tinh, cảm biến thời tiết và mức nước",
   "inst_note": "Khớp nối chữa cháy tiêu chuẩn trên bể, để xe cứu hỏa hút nước được từ đó — quy chuẩn xây dựng của Valencia yêu cầu đích danh điều này, và đó là cách nhanh nhất để đội cứu hỏa địa phương thành đồng minh thay vì trở ngại.",
-
   "sys_h3_numbers": "Các con số",
   "num_th1": "Mỗi cột, mỗi lần cháy",
   "num_th2": "Mỗi nhà, vòng bảo vệ đầy đủ",
@@ -103,10 +91,17 @@
   "num_td2": "<strong>31.000–82.000 €</strong> đồng cỏ (13 cột)<br><strong>37.000–98.000 €</strong> cây bụi (19 cột)<br><strong>62.000–163.000 €</strong> rừng (44 cột)<br>bảo vệ 7.700 / 15.200 / 25.200 m²",
   "num_td3": "<strong>121.000–251.000 $</strong><br>= <strong>1.500–7.400 € mỗi hộ</strong><br>Phiên bản mà một con phố thực sự trả nổi",
   "num_note": "Các con số lấy từ mô hình thủy lực, năng lượng và chi phí của chính chúng tôi, ở mặt bằng giá châu Âu. Khoảng cách: 30 m với đồng cỏ, 50 m với cây bụi, hai hàng ở 50 + 70 m với rừng; nếu lửa leo dốc thì khoảng gấp đôi.",
-
   "sys_note_lead": "Và những gì nó không phải là.",
   "sys_note": "Tới 90 % số nhà bị mất trong một đám cháy rừng là do tàn lửa bị gió thổi đi làm bén, chứ không phải do đầu ngọn lửa — mà tàn lửa thì bay qua bất kỳ dải nào. Tuyến chặn đầu lửa và lấy đi nhiệt bức xạ; các cửa thông gió, lưới chắn tàn lửa và mái nhà được làm ướt lo phần còn lại. Chúng tôi cung cấp cả hai, và sẽ không bao giờ nói rằng cái này thay được cái kia.",
-
+  "band_cap": "Một đầu phun va đập bằng đồng thau, bán kính 15 m. Chính việc cứ 20 mét đặt một cái mới biến một hàng đầu phun thành dải ướt liên tục.",
+  "ev_kicker": "Ngoài thực địa",
+  "ev_h2": "Đầu phun hôm nay đã chặn được cháy rừng. Chỉ có điều phải có người tới nơi và dựng tuyến bằng tay.",
+  "ev_intro": "Đây không phải công trình của chúng tôi. Đây là ảnh tư liệu chính thức về những gì lực lượng cứu hỏa làm khi đầu lửa đang tới: trải vòi, treo đầu phun, hạ bể nước di động xuống, và ở lại đó. Nó có hiệu quả — và nó cần con người, vào đúng thời điểm tệ nhất, ở một trăm mét cuối cùng. Đó chính là phần chúng tôi tự động hóa và đẩy ra xa 30–100 m.",
+  "ev1_cap": "Suffolk, Virginia, 2011. Lính cứu hỏa thử hệ đầu phun vừa lắp quanh một tòa nhà lịch sử. Nước làm được việc; phần lắp đặt tốn một đội và một ngày.",
+  "ev2_cap": "Rừng Quốc gia Rogue-Siskiyou, Oregon, 2018. Bể di động, máy bơm, vòi, đầu phun và lớp giấy bạc bọc quanh công trình. Đây là mức cao nhất của kỹ thuật hiện nay — được khiêng tới tận nơi trong ngày xảy ra cháy.",
+  "ev3_cap": "Hạt Jefferson, Oregon. Không phải phòng cháy mà là tưới tiêu — nhưng đây đúng là hình học của tuyến chúng tôi: các cột dựng cách đều, những vòng nước chồng lấn, một dải ướt liên tục duy nhất.",
+  "ev_note_lead": "Không tấm ảnh nào trong số này là của chúng tôi.",
+  "ev_note": "Chúng tôi chưa có công trình tham chiếu nào, và không có ảnh nào trên trang này chụp công việc của chính chúng tôi. Chúng tôi dùng chúng vì chúng cho thấy cùng một nguyên lý vật lý — và cùng một giới hạn. Nguồn và giấy phép của từng ảnh được in ngay bên dưới.",
   "off_kicker": "Hợp tác",
   "off_h2": "Chúng tôi không đi xin việc. Chúng tôi mang đến một dự án.",
   "off_big": "Chúng tôi thiết kế được, tính toán được, viết được phần mềm điều khiển và chỉ huy được việc thi công. Thứ chúng tôi không làm được là tài trợ cho công trình đầu tiên. Toàn bộ lời đề nghị chỉ có vậy, nói thẳng.",
@@ -130,7 +125,6 @@
   "off_first": "Một tuyến trình diễn dài 100–200 mét, có thiết bị đo, được quay phim, được đo đạc. Địa điểm thì đã có sẵn: vành đai một nhà máy công nghiệp rộng khoảng năm đến sáu hecta tại Việt Nam — đất của mình, đội của mình, mua sắm của mình. Đó là bằng chứng đáng tin rẻ nhất hiện có, và là thứ biến một bản vẽ thành số liệu.",
   "off_note_lead": "Và danh sách trung thực những gì chúng tôi chưa có.",
   "off_note": "Chưa có công trình tham chiếu nào đã lắp đặt. Chưa có thiết kế phòng cháy nào được ký. Chưa có giấy phép ở bất kỳ quốc gia nào. Thứ chúng tôi có là một ý tưởng đã tính tới mức chi phí, bức tranh đối thủ và quy định bằng văn bản, phần mềm biến nó thành một tuyến phòng vệ chứ không phải một dàn tưới, và một giám đốc dự án đã từng bàn giao công trình. Chúng tôi thà mở đầu bằng danh sách đó còn hơn để người ta phát hiện ra sau.",
-
   "team_kicker": "Chúng tôi là ai",
   "team_h2": "Một giám đốc dự án, một kỹ sư hệ thống — và một danh sách trung thực về những gì còn thiếu.",
   "p1_name": "Nguyễn Đặng Liên",
@@ -149,14 +143,12 @@
   "p2_tag1": "Điều khiển và đo xa",
   "p2_tag2": "Dữ liệu cho bảo hiểm",
   "p2_tag3": "tiếng Hungary · tiếng Anh",
-
   "con_kicker": "Liên hệ",
   "con_h2": "Hãy gửi cho chúng tôi một địa điểm và một câu hỏi. Chúng tôi sẽ gửi lại một thiết kế.",
   "con_big": "Nếu quý vị làm về phòng cháy, tưới tiêu hay hạ tầng, và có một vành đai cần được bảo vệ — đó đúng là cuộc trò chuyện chúng tôi đang tìm. Chúng tôi trả lời bằng tiếng Anh, tiếng Hungary và tiếng Việt.",
   "con_btn1": "Viết cho chúng tôi",
   "con_btn2": "Ngôn ngữ khác",
   "con_note": "Bản nghiên cứu ý tưởng đầy đủ, mô hình chi phí và phân tích đối thủ có sẵn khi được yêu cầu, bằng tiếng Hungary hoặc tiếng Anh.",
-
   "foot_brand": "Tuyến Chặn Lửa",
   "foot_tagline": "Kỹ thuật phòng vệ cháy rừng · tên gọi tạm thời, đang chờ tra cứu nhãn hiệu",
   "foot_ref1": "Đến nay chưa có công trình tham chiếu đã lắp đặt.",

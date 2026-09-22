@@ -2,28 +2,23 @@
   "_lang": "hr",
   "_native": "Hrvatski",
   "_file": "hr.html",
-
   "title": "Linija Zadržavanja — obrana od požara raslinja 30–100 m ispred kuće",
   "description": "Automatska linija obrane od požara raslinja, postavljena 30 do 100 metara ispred kuća. Projektirana, troškovno razrađena i spremna za gradnju — tražimo partnera koji će izgraditi prvu.",
-
   "brand_html": "Linija <span>Zadržavanja</span>",
   "nav_gap": "Praznina",
   "nav_system": "Sustav",
   "nav_offer": "Partnerstvo",
   "nav_team": "Tko smo",
   "nav_lang": "Jezik",
-
   "hero_eyebrow": "Inženjering obrane od požara raslinja · Europa · SAD · Jugoistočna Azija",
   "hero_h1": "Svi štite kuću. Mi zaustavljamo vatru <em>prije nego što do nje dođe</em>.",
   "hero_lead1": "Automatska obrambena linija, 30 do 100 metara prema van: neprekinuti mokri pojas koji se sam složi u trenutku kad se približi vatrena fronta — na vlastitoj vodi, vlastitoj solarnoj struji, sa sredstvom bez fluora i bez ikoga na terenu.",
   "hero_lead2": "Inženjerski dio je gotov. Troškovi su izmodelirani. Ono što tražimo jest partner koji će izgraditi prvu.",
   "hero_btn1": "Što donosimo, što nam treba",
   "hero_btn2": "Kako sustav radi",
-
   "gap_kicker": "Praznina",
   "gap_h2": "Dva pitanja odlučuju sve: koliko daleko i kada.",
   "gap_big": "Svaki proizvod za zaštitu od požara raslinja na tržištu odgovara na ta dva pitanja — i gotovo svi odgovaraju jednako: <strong>kod kuće, i tek kad je vatra već ondje.</strong> Postavite li cijelu granu na te dvije osi, pojavi se prazno polje.",
-
   "svg_aria": "Presjek od divljeg raslinja do kuće, koji pokazuje gdje djeluje pojedini pristup zaštiti",
   "svg_firefront": "Vatrena fronta",
   "svg_band_title": "Neprekinuti mokri pojas · 22 m",
@@ -34,9 +29,7 @@
   "svg_matrix": "Matrix Wildfire — tretirani pojas, mjesecima prije",
   "svg_us": "Mi — mokro, u trenutku dolaska fronte",
   "svg_structure": "Frontline, waveGUARD, House Water Dome — građevina",
-
   "gap_figcaption": "Gdje djeluje pojedini pristup. Tretirani pojas nanosi se mjesecima unaprijed i razgrađuje se; sustavi na građevini oblažu kuću kad je vatra već na parceli; pokretne postrojbe najprije moraju stići. Pojas na 30–100 m sam se složi u trenutku kad fronta do njega dođe — a to je polje danas prazno.",
-
   "gap_th1": "Kada djeluje",
   "gap_th2": "Tko",
   "gap_th3": "Ograničenje",
@@ -52,11 +45,9 @@
   "gap_r4c1": "U tom trenutku",
   "gap_r4c2": "Linija Zadržavanja",
   "gap_r4c3": "To danas nitko ne pokriva",
-
   "gap_note1_lead": "Nismo mi izmislili ovu ideju i to kažemo prvi.",
   "gap_note1": "U Španjolskoj Medi XXI od 2006. gradi obranu perimetra vodenim topovima oko naselja i ima priznati patent. U Francuskoj STME FIRE vodi istraživački program upravo o tome. U Portugalu su sveučilišni istraživači 2020. okružili selo s dvanaest rasprskavajućih stupova. U SAD-u dvije financirane tvrtke grade barijere u industrijskom mjerilu.",
   "gap_note2": "Ono što nitko ne radi upravo je dio koji smo mi osmislili: <strong>liniju zadržavanja dovoljno malu, dovoljno jeftinu i dovoljno automatsku da je kupi jedna kuća ili jedna ulica</strong> — neprekinuti pojas od malih rasprskalica umjesto nekoliko velikih vodenih topova, s dvostrukim okidanjem, energetski neovisnu, i sa sredstvom koje već danas zadovoljava europsku zabranu fluoriranih pjena iz 2030.",
-
   "sys_kicker": "Sustav",
   "sys_h2": "Linija koja cijelu godinu stoji suha i sama se smoči za devedeset sekundi.",
   "sys_c1_h": "Neprekinuta, ne točkasta",
@@ -71,7 +62,6 @@
   "sys_c5_p": "Detektori plamena govore iz kojeg luka dolazi fronta, pa se pokreće samo taj sektor, plus dva stupa rezerve. Voda traje dva do tri puta dulje.",
   "sys_c6_h": "Sve bilježi",
   "sys_c6_p": "Vrijeme pokretanja, tlak, potrošena voda, temperatura, vjetar, trajanje rada. Osiguravatelj vrednuje ono što može modelirati — zato linija proizvodi dokaz od prvog dana.",
-
   "sys_h3_phases": "Kako radi — u pet faza",
   "sys_p1_label": "Pripravnost, cijelu godinu",
   "sys_p1_p": "Linija stoji suha. Tjedni samotest protjera ventile, solarni panel drži bateriju punom, spremnik ostaje pun. Ništa ne radi uzalud — a ista mreža cijevi može služiti i za navodnjavanje.",
@@ -85,7 +75,6 @@
   "sys_p5_p": "Najmanje četiri sata iz vlastitog spremnika. Aktivni sektor prati frontu dok prolazi, a pojas nastavlja hladiti tlo i nakon što plamen ode — upravo to zaustavlja ponovno razbuktavanje.",
   "sys_p6_label": "Poslije",
   "sys_p6_p": "Izvještaj o događaju: vrijeme pokretanja, trajanje rada, tlakovi, potrošena voda i sredstvo, temperatura i vjetar. To je spis koji osiguravatelj može modelirati — i razlog zašto dokaz postoji već od prvog požara.",
-
   "sys_h3_installed": "Što se zapravo ugrađuje",
   "inst_th1": "Iznad zemlje",
   "inst_th2": "Ispod zemlje",
@@ -94,7 +83,6 @@
   "inst_td2": "HDPE glavni vod, ukopan na 0,45–0,5 m<br>Metalna cijev svugdje gdje izlazi na površinu<br>Sekcijski ventili po luku<br>Sabirni kanal koji neisparenu vodu vraća u spremnik",
   "inst_td3": "Spremnik, dimenzioniran prema tipu raslinja<br>Električna pumpa plus dizelska pričuva s automatskim pokretanjem<br>Solarni paneli, LiFePO4 baterija u vatrootpornom ormaru<br>Dozator pjene 0,1–1 % i spremnik koncentrata<br>Upravljanje: 4G, prijamnik satelitskih dojava, senzori vremena i razine",
   "inst_note": "Standardne vatrogasne spojnice na spremniku, kako bi vozilo moglo iz njega usisavati — valencijski građevinski propis to izrijekom traži, a to je i najbrži način da lokalna vatrogasna postrojba bude saveznik, a ne prepreka.",
-
   "sys_h3_numbers": "Brojke",
   "num_th1": "Po stupu, po jednom požaru",
   "num_th2": "Po kući, puni zaštitni prsten",
@@ -103,10 +91,17 @@
   "num_td2": "<strong>31.000–82.000 €</strong> travnjak (13 stupova)<br><strong>37.000–98.000 €</strong> makija (19 stupova)<br><strong>62.000–163.000 €</strong> šuma (44 stupa)<br>7.700 / 15.200 / 25.200 m² zaštićeno",
   "num_td3": "<strong>121.000–251.000 $</strong><br>= <strong>1.500–7.400 € po kućanstvu</strong><br>Inačica koju ulica doista može platiti",
   "num_note": "Vrijednosti iz našeg vlastitog hidrauličkog, energetskog i troškovnog modela, na europskoj razini cijena. Udaljenosti: 30 m za travnjak, 50 m za makiju, dvostruki red na 50 + 70 m za šumu; otprilike dvostruko na padini uz koju se vatra penje.",
-
   "sys_note_lead": "I ono što nije.",
   "sys_note": "Do 90 % kuća izgubljenih u požaru raslinja zapali žeravica koju nosi vjetar, a ne fronta plamena — a žeravica preleti preko svakog pojasa. Linija zaustavlja frontu i skida toplinsko zračenje; rešetke i mreže otporne na žeravicu te smočeni krov rade ostalo. Isporučujemo oboje i nikada nećemo tvrditi da jedno zamjenjuje drugo.",
-
+  "band_cap": "Mjedena udarna rasprskalica, polumjer 15 m. Upravo to što stoji jedna svakih 20 metara pretvara niz rasprskalica u neprekinuti mokri pojas.",
+  "ev_kicker": "Na terenu",
+  "ev_h2": "Rasprskalice već zaustavljaju požare raslinja. Samo što danas netko mora doći i liniju izgraditi rukama.",
+  "ev_intro": "Ovo nisu naše izvedbe. To su službene snimke onoga što vatrogasci rade kad dolazi fronta: razvuku crijeva, objese rasprskalice, spuste prijenosne spremnike i ostanu ondje. Radi — i traži ljude, u najgorem mogućem trenutku, na posljednjih stotinu metara. Upravo taj dio automatiziramo i pomičemo na 30–100 m.",
+  "ev1_cap": "Suffolk, Virginia, 2011. Vatrogasci ispituju sustav rasprskalica koji su upravo postavili oko povijesne zgrade. Voda odrađuje svoje; postavljanje je stajalo jednu ekipu i jedan dan.",
+  "ev2_cap": "Nacionalna šuma Rogue-Siskiyou, Oregon, 2018. Prijenosni spremnici, pumpe, crijeva, rasprskalice i reflektirajuća folija na zgradi. To je vrhunac tehnike — donesen na lice mjesta na dan požara.",
+  "ev3_cap": "Okrug Jefferson, Oregon. Nije protupožarna zaštita nego navodnjavanje — a ipak je to točno geometrija naše linije: jednako razmaknuti stupovi, krugovi koji se preklapaju, jedan neprekinuti mokri pojas.",
+  "ev_note_lead": "Nijedna od ovih fotografija nije naša.",
+  "ev_note": "Nemamo nijednu izvedenu referencu i nijedna slika na ovoj stranici ne prikazuje naš rad. Koristimo ih jer pokazuju istu fiziku — i isto ograničenje. Izvor i licencija svake ispisani su ispod nje.",
   "off_kicker": "Partnerstvo",
   "off_h2": "Ne tražimo posao. Donosimo projekt.",
   "off_big": "Znamo ga projektirati, dimenzionirati, napisati njegov upravljački softver i voditi njegovu gradnju. Ono što ne možemo jest financirati prvu izvedbu. To je cijela ponuda, rečena bez okolišanja.",
@@ -130,7 +125,6 @@
   "off_first": "Demonstracijska linija od 100–200 metara, s mjernom opremom, snimljena, izmjerena. Lokaciju već imamo: perimetar industrijskog pogona od otprilike pet do šest hektara u Vijetnamu — vlastito zemljište, vlastita ekipa, vlastita nabava. To je najjeftiniji vjerodostojan dokaz koji postoji, i upravo ono što crtež pretvara u izmjereni podatak.",
   "off_note_lead": "I pošten popis onoga što nemamo.",
   "off_note": "Nijednu izvedenu referencu. Nijedan potpisan protupožarni projekt. Nijednu licenciju ni u jednoj jurisdikciji. Ono što imamo jest koncept proračunat do razine troška, sliku konkurencije i propisa u pisanom obliku, softver koji od ovoga čini obrambenu liniju, a ne prskalicu, i voditelja projekta koji je već predao objekt. Radije otvaramo tim popisom nego da ga netko naknadno otkrije.",
-
   "team_kicker": "Tko smo",
   "team_h2": "Voditelj projekta, sistemski inženjer — i pošten popis onoga što nam još nedostaje.",
   "p1_name": "Nguyễn Đặng Liên",
@@ -149,14 +143,12 @@
   "p2_tag1": "Upravljanje i telemetrija",
   "p2_tag2": "Podaci za osiguravatelje",
   "p2_tag3": "mađarski · engleski",
-
   "con_kicker": "Kontakt",
   "con_h2": "Pošaljite nam lokaciju i pitanje. Mi vraćamo projekt.",
   "con_big": "Ako gradite zaštitu od požara, navodnjavanje ili infrastrukturu i imate perimetar koji treba braniti — upravo je to razgovor koji tražimo. Odgovaramo na engleskom, mađarskom i vijetnamskom.",
   "con_btn1": "Pišite nam",
   "con_btn2": "Drugi jezici",
   "con_note": "Cjelovita idejna studija, troškovni model i analiza konkurencije dostupni su na upit, na mađarskom ili engleskom.",
-
   "foot_brand": "Linija Zadržavanja",
   "foot_tagline": "Inženjering obrane od požara raslinja · radni naziv, provjera žiga u tijeku",
   "foot_ref1": "Do danas nijedna izvedena referenca.",

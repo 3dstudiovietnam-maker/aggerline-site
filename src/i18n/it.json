@@ -2,28 +2,23 @@
   "_lang": "it",
   "_native": "Italiano",
   "_file": "it.html",
-
   "title": "La Linea di Arresto — difesa dagli incendi boschivi a 30–100 m dalla casa",
   "description": "Una linea di difesa automatica contro gli incendi boschivi, installata da 30 a 100 metri davanti alle abitazioni. Progettata, quantificata e pronta da costruire: cerchiamo il partner che realizzi la prima.",
-
   "brand_html": "La Linea di <span>Arresto</span>",
   "nav_gap": "Il vuoto",
   "nav_system": "Il sistema",
   "nav_offer": "Partnership",
   "nav_team": "Chi siamo",
   "nav_lang": "Lingua",
-
   "hero_eyebrow": "Ingegneria di difesa dagli incendi boschivi · Europa · USA · Sud-est asiatico",
   "hero_h1": "Tutti proteggono la casa. Noi fermiamo il fuoco <em>prima che ci arrivi</em>.",
   "hero_lead1": "Una linea di difesa automatica, da 30 a 100 metri più all'esterno: una fascia bagnata continua che si forma da sola nel momento in cui un fronte di fuoco si avvicina — con acqua propria, energia solare propria, con un agente privo di fluoro e senza nessuno sul posto.",
   "hero_lead2": "L'ingegneria è fatta. I costi sono modellati. Quello che cerchiamo è il partner che costruisca la prima.",
   "hero_btn1": "Cosa portiamo, cosa ci serve",
   "hero_btn2": "Come funziona il sistema",
-
   "gap_kicker": "Il vuoto",
   "gap_h2": "Due domande decidono tutto: a che distanza e quando.",
   "gap_big": "Tutti i prodotti di protezione dagli incendi boschivi sul mercato rispondono a queste due domande — e quasi tutti rispondono allo stesso modo: <strong>alla casa, e quando il fuoco è già lì.</strong> Se si dispone il settore su questi due assi, compare una casella vuota.",
-
   "svg_aria": "Sezione dalla vegetazione naturale fino alla casa, che mostra dove agisce ciascun approccio di protezione",
   "svg_firefront": "Fronte di fuoco",
   "svg_band_title": "Fascia bagnata continua · 22 m",
@@ -34,9 +29,7 @@
   "svg_matrix": "Matrix Wildfire — fascia trattata, mesi prima",
   "svg_us": "Noi — bagnando, nell'istante in cui arriva il fronte",
   "svg_structure": "Frontline, waveGUARD, House Water Dome — l'edificio",
-
   "gap_figcaption": "Dove agisce ciascun approccio. La fascia trattata viene applicata mesi prima e si degrada; i sistemi sull'edificio rivestono la casa quando il fuoco è già sul lotto; le unità mobili devono arrivare. La fascia a 30–100 m si forma da sola nell'istante in cui il fronte la raggiunge — e quella casella oggi è vuota.",
-
   "gap_th1": "Quando agisce",
   "gap_th2": "Chi",
   "gap_th3": "Il suo limite",
@@ -52,11 +45,9 @@
   "gap_r4c1": "In quell'istante",
   "gap_r4c2": "La Linea di Arresto",
   "gap_r4c3": "Oggi nessuno copre questo",
-
   "gap_note1_lead": "Non abbiamo inventato noi questa idea, e siamo i primi a dirlo.",
   "gap_note1": "In Spagna, Medi XXI costruisce dal 2006 difese perimetrali a cannoni attorno ai complessi residenziali e ha un brevetto concesso. In Francia, STME FIRE porta avanti un programma di ricerca esattamente su questo. In Portogallo, ricercatori universitari hanno circondato un villaggio con dodici colonne di irrigazione nel 2020. Negli Stati Uniti, due aziende finanziate costruiscono barriere su scala industriale.",
   "gap_note2": "Quello che nessuno sta facendo è proprio ciò che abbiamo progettato noi: <strong>una linea di arresto abbastanza piccola, abbastanza economica e abbastanza automatica da poter essere comprata da una casa o da una strada</strong> — una fascia continua fatta di irrigatori piccoli invece che di pochi grandi cannoni, a doppio innesco, indipendente dal punto di vista energetico, e con un agente che già oggi rispetta il divieto europeo del 2030 sulle schiume fluorurate.",
-
   "sys_kicker": "Il sistema",
   "sys_h2": "Una linea che resta asciutta tutto l'anno e si bagna da sola in novanta secondi.",
   "sys_c1_h": "Continua, non puntuale",
@@ -71,7 +62,6 @@
   "sys_c5_p": "I rilevatori di fiamma dicono da quale arco arriva il fronte, così parte solo quel settore, più due pali di margine. L'acqua dura due o tre volte di più.",
   "sys_c6_h": "Registra tutto",
   "sys_c6_p": "Ora di avvio, pressione, acqua consumata, temperatura, vento, tempo di funzionamento. L'assicuratore dà un prezzo a ciò che può modellare — per questo la linea produce la prova dal primo giorno.",
-
   "sys_h3_phases": "Come funziona — in cinque fasi",
   "sys_p1_label": "Riposo, tutto l'anno",
   "sys_p1_p": "La linea resta asciutta. Un autotest settimanale fa manovrare le valvole, il campo fotovoltaico tiene carica la batteria, il serbatoio resta pieno. Niente gira a vuoto — e la stessa rete di tubazioni può servire per l'irrigazione.",
@@ -85,7 +75,6 @@
   "sys_p5_p": "Almeno quattro ore dal proprio serbatoio. Il settore attivo segue il fronte mentre passa, e la fascia continua a raffreddare il terreno dopo che la fiamma se n'è andata — ed è questo che ferma una ripresa dell'incendio.",
   "sys_p6_label": "Dopo",
   "sys_p6_p": "Un rapporto dell'evento: ora di avvio, durata, pressioni, acqua e agente consumati, temperatura e vento. È il fascicolo che un assicuratore può modellare — e il motivo per cui la prova esiste già dal primo incendio.",
-
   "sys_h3_installed": "Che cosa si installa davvero",
   "inst_th1": "In superficie",
   "inst_th2": "Sottoterra",
@@ -94,7 +83,6 @@
   "inst_td2": "Condotta principale in HDPE interrata a 0,45–0,5 m<br>Tubo metallico ovunque risalga in superficie<br>Valvole di sezionamento per arco<br>Un canale di raccolta che riporta al serbatoio l'acqua non evaporata",
   "inst_td3": "Serbatoio dimensionato sul tipo di vegetazione<br>Pompa elettrica più riserva diesel ad avviamento automatico<br>Campo fotovoltaico, batteria LiFePO4 in armadio resistente al fuoco<br>Dosatore di schiuma 0,1–1 % e serbatoio del concentrato<br>Comando: 4G, ricevitore di allarmi satellitari, sensori meteo e di livello",
   "inst_note": "Attacchi normalizzati per i vigili del fuoco sul serbatoio, così un mezzo può aspirare da lì — il regolamento edilizio valenciano lo richiede espressamente, ed è il modo più rapido per rendere il distaccamento locale un alleato invece che un ostacolo.",
-
   "sys_h3_numbers": "I numeri",
   "num_th1": "Per palo, per incendio",
   "num_th2": "Per casa, anello completo",
@@ -103,10 +91,17 @@
   "num_td2": "<strong>31.000–82.000 €</strong> prateria (13 pali)<br><strong>37.000–98.000 €</strong> macchia (19 pali)<br><strong>62.000–163.000 €</strong> bosco (44 pali)<br>7.700 / 15.200 / 25.200 m² protetti",
   "num_td3": "<strong>121.000–251.000 $</strong><br>= <strong>1.500–7.400 € per abitazione</strong><br>La versione che una strada può davvero permettersi",
   "num_note": "Valori dal nostro modello idraulico, energetico e di costo, a livelli di prezzo europei. Distanze: 30 m in prateria, 50 m in macchia, doppia fila a 50 + 70 m in bosco; all'incirca il doppio su un pendio che il fuoco risale.",
-
   "sys_note_lead": "E ciò che non è.",
   "sys_note": "Fino al 90 % delle case perdute in un incendio boschivo prende fuoco per i tizzoni portati dal vento, non per il fronte di fiamma — e i tizzoni volano sopra qualsiasi fascia. La linea ferma il fronte e toglie il calore radiante; le griglie e le reti antitizzone e un tetto bagnato fanno il resto. Forniamo entrambe le cose, e non sosterremo mai che una sostituisca l'altra.",
-
+  "band_cap": "Un irrigatore a impatto in ottone, 15 m di raggio. È metterne uno ogni 20 metri che trasforma una fila di irrigatori in una fascia bagnata continua.",
+  "ev_kicker": "Sul campo",
+  "ev_h2": "Gli irrigatori fermano già gli incendi boschivi. Solo che oggi qualcuno deve arrivare e montare la linea a mano.",
+  "ev_intro": "Queste non sono installazioni nostre. Sono immagini ufficiali di ciò che fanno i vigili del fuoco quando arriva un fronte: stendere manichette, appendere irrigatori, posare serbatoi mobili e restare lì. Funziona — e richiede uomini, nel peggior momento possibile, negli ultimi cento metri. È questa la parte che automatizziamo e spostiamo a 30–100 m.",
+  "ev1_cap": "Suffolk, Virginia, 2011. Dei vigili del fuoco provano un impianto di irrigatori appena montato attorno a un edificio storico. L'acqua fa il suo lavoro; il montaggio è costato una squadra e una giornata.",
+  "ev2_cap": "Foresta Nazionale di Rogue-Siskiyou, Oregon, 2018. Serbatoi mobili, pompe, manichette, irrigatori e foglio riflettente sull'edificio. Questo è lo stato dell'arte — portato sul posto il giorno dell'incendio.",
+  "ev3_cap": "Contea di Jefferson, Oregon. Non protezione antincendio ma irrigazione — eppure è esattamente la geometria della nostra linea: montanti a passo regolare, cerchi che si sovrappongono, un'unica fascia bagnata continua.",
+  "ev_note_lead": "Nessuna di queste foto è nostra.",
+  "ev_note": "Non abbiamo alcuna referenza installata, e nessuna immagine di questa pagina ritrae un nostro lavoro. Le usiamo perché mostrano la stessa fisica — e lo stesso limite. Fonte e licenza di ciascuna sono stampate sotto.",
   "off_kicker": "La partnership",
   "off_h2": "Non cerchiamo un impiego. Portiamo un progetto.",
   "off_big": "Sappiamo progettarlo, dimensionarlo, scrivere il suo software di comando e dirigerne la costruzione. Quello che non possiamo fare è finanziare la prima installazione. È tutta qui la proposta, detta senza giri di parole.",
@@ -130,7 +125,6 @@
   "off_first": "Una linea dimostrativa di 100–200 metri, strumentata, filmata, misurata. Un sito candidato ce l'abbiamo già: il perimetro di uno stabilimento industriale di circa cinque o sei ettari in Vietnam — terreno nostro, squadra nostra, acquisti nostri. È la prova credibile più economica che esista, ed è ciò che trasforma un disegno in un dato.",
   "off_note_lead": "E l'elenco onesto di quello che non abbiamo.",
   "off_note": "Nessuna referenza installata. Nessun progetto antincendio firmato. Nessuna licenza in nessuna giurisdizione. Quello che invece abbiamo è un concetto calcolato fino al livello dei costi, il quadro dei concorrenti e delle norme per iscritto, il software che ne fa una linea di difesa e non un irrigatore, e un direttore di progetto che ha già consegnato. Preferiamo aprire con questo elenco piuttosto che farcelo scoprire dopo.",
-
   "team_kicker": "Chi siamo",
   "team_h2": "Un direttore di progetto, un ingegnere di sistema — e un elenco onesto di ciò che ancora ci manca.",
   "p1_name": "Nguyễn Đặng Liên",
@@ -149,14 +143,12 @@
   "p2_tag1": "Comando e telemetria",
   "p2_tag2": "Dati per gli assicuratori",
   "p2_tag3": "ungherese · inglese",
-
   "con_kicker": "Contatti",
   "con_h2": "Mandateci un sito e una domanda. Vi rimandiamo un progetto.",
   "con_big": "Se costruite protezione antincendio, irrigazione o infrastrutture, e avete un perimetro da difendere — è esattamente questa la conversazione che cerchiamo. Rispondiamo in inglese, ungherese e vietnamita.",
   "con_btn1": "Scriveteci",
   "con_btn2": "Altre lingue",
   "con_note": "Lo studio di concetto completo, il modello dei costi e l'analisi dei concorrenti sono disponibili su richiesta, in ungherese o in inglese.",
-
   "foot_brand": "La Linea di Arresto",
   "foot_tagline": "Ingegneria di difesa dagli incendi boschivi · nome di lavoro, in attesa di verifica del marchio",
   "foot_ref1": "Ad oggi nessuna referenza installata.",

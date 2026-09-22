@@ -2,28 +2,23 @@
   "_lang": "de",
   "_native": "Deutsch",
   "_file": "de.html",
-
   "title": "Die Abwehrlinie — Vegetationsbrandschutz 30–100 m vor dem Haus",
   "description": "Eine automatische Abwehrlinie gegen Vegetationsbrände, 30 bis 100 Meter vor den Häusern. Durchgeplant, durchgerechnet und baureif — wir suchen den Partner, der die erste errichtet.",
-
   "brand_html": "Die <span>Abwehrlinie</span>",
   "nav_gap": "Die Lücke",
   "nav_system": "Das System",
   "nav_offer": "Partnerschaft",
   "nav_team": "Wer wir sind",
   "nav_lang": "Sprache",
-
   "hero_eyebrow": "Ingenieurarbeit für Vegetationsbrandschutz · Europa · USA · Südostasien",
   "hero_h1": "Alle schützen das Haus. Wir stoppen das Feuer, <em>bevor es dort ankommt</em>.",
   "hero_lead1": "Eine automatische Abwehrlinie, 30 bis 100 Meter weiter draußen: ein durchgehendes Nassband, das sich in dem Moment von selbst aufbaut, in dem eine Feuerfront näher kommt — aus eigenem Wasser, eigenem Solarstrom, mit einem fluorfreien Mittel, und ohne dass jemand vor Ort ist.",
   "hero_lead2": "Die Ingenieurarbeit ist fertig. Die Kosten sind durchgerechnet. Was wir suchen, ist der Partner, der die erste baut.",
   "hero_btn1": "Was wir mitbringen, was wir brauchen",
   "hero_btn2": "Wie das System arbeitet",
-
   "gap_kicker": "Die Lücke",
   "gap_h2": "Zwei Fragen entscheiden alles: wie weit draußen, und wann.",
   "gap_big": "Jedes Vegetationsbrandschutz-Produkt am Markt beantwortet diese beiden Fragen — und fast alle beantworten sie gleich: <strong>am Haus, und erst dann, wenn das Feuer schon da ist.</strong> Trägt man das Feld auf diesen beiden Achsen auf, entsteht ein leeres Feld.",
-
   "svg_aria": "Schnitt von der Wildnis bis zum Haus, der zeigt, wo die einzelnen Schutzansätze wirken",
   "svg_firefront": "Feuerfront",
   "svg_band_title": "Durchgehendes Nassband · 22 m",
@@ -34,9 +29,7 @@
   "svg_matrix": "Matrix Wildfire — behandelter Streifen, Monate vorher",
   "svg_us": "Wir — nass, im Moment des Frontdurchgangs",
   "svg_structure": "Frontline, waveGUARD, House Water Dome — das Gebäude",
-
   "gap_figcaption": "Wo die einzelnen Ansätze wirken. Der behandelte Streifen wird Monate vorher aufgebracht und baut sich ab; die Gebäudesysteme benetzen das Haus, wenn das Feuer schon auf dem Grundstück steht; mobile Einheiten müssen erst eintreffen. Das Band bei 30–100 m baut sich in dem Moment selbst auf, in dem die Front es erreicht — und dieses Feld ist heute leer.",
-
   "gap_th1": "Wann es wirkt",
   "gap_th2": "Wer",
   "gap_th3": "Die Grenze",
@@ -52,11 +45,9 @@
   "gap_r4c1": "In diesem Moment",
   "gap_r4c2": "Die Abwehrlinie",
   "gap_r4c3": "Das deckt heute niemand ab",
-
   "gap_note1_lead": "Wir haben diese Idee nicht erfunden, und wir sagen es als Erste.",
   "gap_note1": "In Spanien baut Medi XXI seit 2006 Perimeterschutz mit Wasserwerfern rund um Wohnanlagen und hält ein erteiltes Patent. In Frankreich betreibt STME FIRE genau dazu ein Forschungsprogramm. In Portugal haben Universitätsforscher 2020 ein Dorf mit zwölf Sprinklersäulen umstellt. In den USA bauen zwei finanzierte Unternehmen Schutzbarrieren im industriellen Maßstab.",
   "gap_note2": "Was niemand macht, ist genau der Teil, den wir entworfen haben: <strong>eine Abwehrlinie, die klein genug, günstig genug und automatisch genug ist, dass ein Haus oder eine Straße sie kaufen kann</strong> — ein durchgehendes Band aus kleinen Regnern statt aus wenigen großen Wasserwerfern, doppelt ausgelöst, energieautark, und mit einem Mittel, das das europäische Verbot fluorhaltiger Schäume ab 2030 heute schon erfüllt.",
-
   "sys_kicker": "Das System",
   "sys_h2": "Eine Linie, die das ganze Jahr trocken steht und sich in neunzig Sekunden selbst nass macht.",
   "sys_c1_h": "Durchgehend, nicht punktuell",
@@ -71,7 +62,6 @@
   "sys_c5_p": "Die Flammenmelder sagen, aus welchem Bogen die Front kommt, also läuft nur dieser Sektor an, plus zwei Masten Zugabe. Das Wasser reicht zwei- bis dreimal so lange.",
   "sys_c6_h": "Sie protokolliert alles",
   "sys_c6_p": "Startzeit, Druck, Wasserverbrauch, Temperatur, Wind, Laufzeit. Ein Versicherer bepreist das, was er modellieren kann — deshalb erzeugt die Linie den Nachweis vom ersten Tag an.",
-
   "sys_h3_phases": "Wie sie arbeitet — in fünf Phasen",
   "sys_p1_label": "Bereitschaft, ganzjährig",
   "sys_p1_p": "Die Linie steht trocken. Ein wöchentlicher Selbsttest fährt die Ventile durch, die Solarfläche hält die Batterie voll, der Tank bleibt gefüllt. Nichts läuft umsonst — und dieselbe Rohrleitung kann bewässern.",
@@ -85,7 +75,6 @@
   "sys_p5_p": "Mindestens vier Stunden aus dem eigenen Tank. Der aktive Sektor folgt der Front, während sie durchzieht, und das Band kühlt den Boden weiter, nachdem die Flamme weg ist — genau das verhindert ein Wiederaufflammen.",
   "sys_p6_label": "Danach",
   "sys_p6_p": "Ein Ereignisbericht: Startzeit, Laufzeit, Drücke, verbrauchtes Wasser und Mittel, Temperatur und Wind. Das ist die Akte, die ein Versicherer modellieren kann — und der Grund, warum der Nachweis schon ab dem ersten Brand vorliegt.",
-
   "sys_h3_installed": "Was tatsächlich verbaut wird",
   "inst_th1": "Über der Erde",
   "inst_th2": "Unter der Erde",
@@ -94,7 +83,6 @@
   "inst_td2": "HDPE-Hauptleitung, 0,45–0,5 m tief verlegt<br>Metallrohr überall dort, wo sie an die Oberfläche kommt<br>Absperrventile je Bogen<br>Eine Sammelrinne, die nicht verdunstetes Wasser in den Tank zurückführt",
   "inst_td3": "Tank, ausgelegt auf den Vegetationstyp<br>Elektropumpe plus Diesel-Reserve mit Autostart<br>Solarfläche, LiFePO4-Batterie im brandgeschützten Schrank<br>Schaumzumischer 0,1–1 % und Konzentrattank<br>Steuerung: 4G, Empfänger für Satellitenwarnungen, Wetter- und Füllstandssensoren",
   "inst_note": "Genormte Feuerwehrkupplungen am Tank, damit ein Löschfahrzeug daraus ansaugen kann — die valencianische Bauordnung verlangt das ausdrücklich, und es ist der schnellste Weg, die örtliche Feuerwehr zum Verbündeten statt zum Hindernis zu machen.",
-
   "sys_h3_numbers": "Die Zahlen",
   "num_th1": "Pro Mast, pro Brandereignis",
   "num_th2": "Pro Haus, vollständiger Schutzring",
@@ -103,10 +91,17 @@
   "num_td2": "<strong>31.000–82.000 €</strong> Grasland (13 Masten)<br><strong>37.000–98.000 €</strong> Buschland (19 Masten)<br><strong>62.000–163.000 €</strong> Wald (44 Masten)<br>7.700 / 15.200 / 25.200 m² geschützt",
   "num_td3": "<strong>121.000–251.000 $</strong><br>= <strong>1.500–7.400 € je Haushalt</strong><br>Die Variante, die sich eine Straße wirklich leisten kann",
   "num_note": "Werte aus unserem eigenen Hydraulik-, Energie- und Kostenmodell, auf europäischem Preisniveau. Abstände: 30 m bei Grasland, 50 m bei Buschland, Doppelreihe bei 50 + 70 m im Wald; an einem Hang, den das Feuer hinaufläuft, ungefähr das Doppelte.",
-
   "sys_note_lead": "Und was sie nicht ist.",
   "sys_note": "Bis zu 90 % der Häuser, die bei einem Vegetationsbrand verloren gehen, werden durch windgetriebenes Flugfeuer entzündet, nicht durch die Flammenfront — und Flugfeuer fliegt über jedes Band hinweg. Die Linie stoppt die Front und nimmt die Strahlungswärme weg; flugfeuersichere Lüftungsgitter, Netze und ein benetztes Dach erledigen den Rest. Wir liefern beides, und wir werden nie behaupten, das eine ersetze das andere.",
-
+  "band_cap": "Ein Messing-Impulsregner, 15 m Radius. Dass alle 20 Meter einer steht, macht aus einer Reihe von Regnern ein durchgehendes Nassband.",
+  "ev_kicker": "Im Feld",
+  "ev_h2": "Regner halten Vegetationsbrände schon heute auf. Nur muss bislang jemand anrücken und die Linie von Hand bauen.",
+  "ev_intro": "Das sind nicht unsere Anlagen. Es sind amtliche Aufnahmen dessen, was Feuerwehren tun, wenn eine Front kommt: Schläuche auslegen, Regner aufhängen, mobile Tanks absetzen und bleiben. Es funktioniert — und es braucht Menschen, im denkbar schlechtesten Moment, auf den letzten hundert Metern. Genau diesen Teil automatisieren wir und verlegen ihn auf 30–100 m nach außen.",
+  "ev1_cap": "Suffolk, Virginia, 2011. Feuerwehrleute testen eine Regneranlage, die sie gerade um ein historisches Gebäude herum aufgebaut haben. Das Wasser leistet seine Arbeit; der Aufbau kostete eine Mannschaft und einen Tag.",
+  "ev2_cap": "Rogue-Siskiyou National Forest, Oregon, 2018. Mobile Tanks, Pumpen, Schläuche, Regner und Folienwicklung am Gebäude. Das ist der Stand der Technik — am Tag des Brandes herangetragen.",
+  "ev3_cap": "Jefferson County, Oregon. Kein Brandschutz, sondern Bewässerung — und doch genau die Geometrie unserer Linie: gleichmäßig gesetzte Steigrohre, überlappende Kreise, ein durchgehendes Nassband.",
+  "ev_note_lead": "Keines dieser Bilder ist von uns.",
+  "ev_note": "Wir haben keine gebaute Referenz, und kein Foto auf dieser Seite zeigt unsere eigene Arbeit. Wir verwenden diese Aufnahmen, weil sie dieselbe Physik zeigen — und dieselbe Grenze. Quelle und Lizenz stehen unter jedem Bild.",
   "off_kicker": "Die Partnerschaft",
   "off_h2": "Wir suchen keine Anstellung. Wir bringen ein Projekt mit.",
   "off_big": "Wir können es planen, auslegen, seine Steuerungssoftware schreiben und seinen Bau leiten. Was wir nicht können, ist die erste Anlage zu finanzieren. Das ist das ganze Angebot, offen gesagt.",
@@ -130,7 +125,6 @@
   "off_first": "Eine 100–200 Meter lange Demonstrationslinie, instrumentiert, gefilmt, vermessen. Einen Standort dafür haben wir bereits: das Werksgelände eines Industriebetriebs von rund fünf bis sechs Hektar in Vietnam — eigener Grund, eigene Mannschaft, eigene Beschaffung. Das ist der billigste glaubwürdige Nachweis, den es gibt, und genau das macht aus einer Zeichnung einen Beleg.",
   "off_note_lead": "Und die ehrliche Liste dessen, was wir nicht haben.",
   "off_note": "Keine gebaute Referenz. Keine unterschriebene Brandschutzplanung. Keine Zulassung in irgendeiner Rechtsordnung. Was wir haben, ist ein bis auf Kostenebene durchgerechnetes Konzept, das Wettbewerbs- und Regulierungsbild schriftlich, die Software, die daraus eine Abwehrlinie und keinen Rasensprenger macht, und einen Projektleiter, der schon einmal übergeben hat. Wir eröffnen lieber mit dieser Liste, als dass man sie uns nachträglich nachweist.",
-
   "team_kicker": "Wer wir sind",
   "team_h2": "Ein Projektleiter, ein Systemingenieur — und eine ehrliche Liste dessen, was uns noch fehlt.",
   "p1_name": "Nguyễn Đặng Liên",
@@ -149,14 +143,12 @@
   "p2_tag1": "Steuerung und Telemetrie",
   "p2_tag2": "Daten für Versicherer",
   "p2_tag3": "Ungarisch · Englisch",
-
   "con_kicker": "Kontakt",
   "con_h2": "Schicken Sie uns einen Standort und eine Frage. Wir schicken eine Planung zurück.",
   "con_big": "Wenn Sie Brandschutz, Bewässerung oder Infrastruktur bauen und einen Perimeter haben, der verteidigt werden muss — genau dieses Gespräch suchen wir. Wir antworten auf Englisch, Ungarisch und Vietnamesisch.",
   "con_btn1": "Schreiben Sie uns",
   "con_btn2": "Weitere Sprachen",
   "con_note": "Die vollständige Konzeptstudie, das Kostenmodell und die Wettbewerbsanalyse sind auf Anfrage erhältlich, auf Ungarisch oder Englisch.",
-
   "foot_brand": "Die Abwehrlinie",
   "foot_tagline": "Ingenieurarbeit für Vegetationsbrandschutz · Arbeitsname, Markenrecherche steht aus",
   "foot_ref1": "Bislang keine gebaute Referenz.",

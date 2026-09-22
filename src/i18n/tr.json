@@ -2,28 +2,23 @@
   "_lang": "tr",
   "_native": "Türkçe",
   "_file": "tr.html",
-
   "title": "Durdurma Hattı — evden 30–100 m önde orman yangını savunması",
   "description": "Konutların 30 ila 100 metre önüne kurulan otomatik bir orman yangını savunma hattı. Mühendisliği yapılmış, maliyeti çıkarılmış ve inşaya hazır — ilkini kuracak ortağı arıyoruz.",
-
   "brand_html": "Durdurma <span>Hattı</span>",
   "nav_gap": "Boşluk",
   "nav_system": "Sistem",
   "nav_offer": "Ortaklık",
   "nav_team": "Biz kimiz",
   "nav_lang": "Dil",
-
   "hero_eyebrow": "Orman yangını savunma mühendisliği · Avrupa · ABD · Güneydoğu Asya",
   "hero_h1": "Herkes evi koruyor. Biz yangını <em>eve varmadan önce</em> durduruyoruz.",
   "hero_lead1": "Otuz ila yüz metre dışarıda, otomatik bir savunma hattı: yangın cephesi yaklaştığı anda kendiliğinden oluşan kesintisiz ıslak bir şerit — kendi suyuyla, kendi güneş enerjisiyle, florsuz bir söndürme maddesiyle ve sahada kimse yokken.",
   "hero_lead2": "Mühendislik tamam. Maliyetler modellendi. Aradığımız şey, ilkini inşa edecek ortak.",
   "hero_btn1": "Ne getiriyoruz, neye ihtiyacımız var",
   "hero_btn2": "Sistem nasıl çalışıyor",
-
   "gap_kicker": "Boşluk",
   "gap_h2": "Her şeyi iki soru belirliyor: ne kadar uzakta ve ne zaman.",
   "gap_big": "Piyasadaki bütün orman yangını koruma ürünleri bu iki soruya cevap veriyor — ve neredeyse hepsi aynı cevabı veriyor: <strong>evin yanında ve yangın çoktan oraya geldikten sonra.</strong> Sektörü bu iki eksen üzerine yerleştirin, ortaya boş bir kare çıkıyor.",
-
   "svg_aria": "Doğal bitki örtüsünden eve kadar kesit: her koruma yaklaşımının nerede devreye girdiğini gösterir",
   "svg_firefront": "Yangın cephesi",
   "svg_band_title": "Kesintisiz ıslak şerit · 22 m",
@@ -34,9 +29,7 @@
   "svg_matrix": "Matrix Wildfire — işlenmiş şerit, aylar önce",
   "svg_us": "Biz — ıslak, cephenin geldiği anda",
   "svg_structure": "Frontline, waveGUARD, House Water Dome — bina",
-
   "gap_figcaption": "Her yaklaşımın devreye girdiği yer. İşlenmiş şerit aylar önce uygulanır ve bozunur; bina sistemleri evi yangın çoktan parsele girmişken kaplar; mobil ekiplerin önce oraya ulaşması gerekir. 30–100 m'deki şerit, cephe ona ulaştığı anda kendiliğinden oluşur — ve bugün o kare boş.",
-
   "gap_th1": "Ne zaman devreye girer",
   "gap_th2": "Kim",
   "gap_th3": "Sınırı",
@@ -52,11 +45,9 @@
   "gap_r4c1": "Tam o anda",
   "gap_r4c2": "Durdurma Hattı",
   "gap_r4c3": "Bunu bugün kimse karşılamıyor",
-
   "gap_note1_lead": "Bu fikri biz bulmadık ve bunu ilk söyleyen biziz.",
   "gap_note1": "İspanya'da Medi XXI, 2006'dan bu yana yerleşimlerin çevresine topçu tipi çevre savunmaları kuruyor ve verilmiş bir patenti var. Fransa'da STME FIRE tam olarak bu konuda bir araştırma programı yürütüyor. Portekiz'de üniversite araştırmacıları 2020'de bir köyü on iki yağmurlama kolonuyla çevreledi. ABD'de yatırım almış iki şirket sanayi ölçeğinde bariyerler kuruyor.",
   "gap_note2": "Kimsenin yapmadığı şey ise tam olarak bizim tasarladığımız kısım: <strong>tek bir evin ya da tek bir sokağın satın alabileceği kadar küçük, kadar ucuz ve kadar otomatik bir durdurma hattı</strong> — birkaç büyük top yerine küçük fıskiyelerden oluşan kesintisiz bir şerit, çift tetiklemeli, enerji açısından bağımsız ve florlu köpüklere ilişkin 2030 Avrupa yasağını bugünden karşılayan bir söndürme maddesiyle.",
-
   "sys_kicker": "Sistem",
   "sys_h2": "Bütün yıl kuru duran ve doksan saniyede kendini ıslatan bir hat.",
   "sys_c1_h": "Kesintisiz, noktasal değil",
@@ -71,7 +62,6 @@
   "sys_c5_p": "Alev dedektörleri cephenin hangi yaydan geldiğini söyler, böylece yalnızca o sektör çalışır, artı iki direk pay. Su iki ila üç kat daha uzun yeter.",
   "sys_c6_h": "Her şeyi kaydeder",
   "sys_c6_p": "Başlama saati, basınç, harcanan su, sıcaklık, rüzgâr, çalışma süresi. Sigortacı modelleyebildiği şeyi fiyatlar — bu yüzden hat, kanıtı ilk gününden itibaren üretir.",
-
   "sys_h3_phases": "Nasıl çalışır — beş aşamada",
   "sys_p1_label": "Bekleme, yıl boyunca",
   "sys_p1_p": "Hat kuru durur. Haftalık otomatik test vanaları çalıştırır, güneş paneli aküyü dolu tutar, depo dolu kalır. Hiçbir şey boşuna çalışmaz — ve aynı boru hattı sulama için de kullanılabilir.",
@@ -85,7 +75,6 @@
   "sys_p5_p": "Kendi deposundan en az dört saat. Aktif sektör geçerken cepheyi izler ve şerit, alev gittikten sonra da zemini soğutmaya devam eder — yeniden alevlenmeyi durduran şey budur.",
   "sys_p6_label": "Sonrasında",
   "sys_p6_p": "Bir olay raporu: başlama saati, çalışma süresi, basınçlar, harcanan su ve söndürme maddesi, sıcaklık ve rüzgâr. Bu, bir sigortacının modelleyebileceği dosyadır — ve kanıtın ilk yangından itibaren var olmasının nedenidir.",
-
   "sys_h3_installed": "Gerçekte ne kuruluyor",
   "inst_th1": "Yer üstünde",
   "inst_th2": "Yer altında",
@@ -94,7 +83,6 @@
   "inst_td2": "0,45–0,5 m derinliğe gömülü HDPE ana hat<br>Yüzeye çıktığı her yerde metal boru<br>Yay başına kesme vanaları<br>Buharlaşmayan suyu depoya geri veren toplama kanalı",
   "inst_td3": "Bitki örtüsü tipine göre boyutlandırılmış depo<br>Elektrikli pompa ve otomatik çalışan dizel yedek<br>Güneş paneli, yangına dayanıklı dolapta LiFePO4 akü<br>%0,1–1 köpük dozlayıcı ve konsantre deposu<br>Kumanda: 4G, uydu uyarı alıcısı, hava ve seviye sensörleri",
   "inst_note": "Depoda standart itfaiye kaplinleri, böylece bir araç oradan su alabilir — Valensiya yapı yönetmeliği bunu açıkça istiyor ve yerel itfaiyeyi engel yerine müttefik yapmanın en hızlı yolu bu.",
-
   "sys_h3_numbers": "Rakamlar",
   "num_th1": "Direk başına, yangın başına",
   "num_th2": "Ev başına, tam koruma halkası",
@@ -103,10 +91,17 @@
   "num_td2": "<strong>31.000–82.000 €</strong> otluk (13 direk)<br><strong>37.000–98.000 €</strong> çalılık (19 direk)<br><strong>62.000–163.000 €</strong> orman (44 direk)<br>7.700 / 15.200 / 25.200 m² korunan alan",
   "num_td3": "<strong>121.000–251.000 $</strong><br>= <strong>konut başına 1.500–7.400 €</strong><br>Bir sokağın gerçekten ödeyebileceği sürüm",
   "num_note": "Değerler kendi hidrolik, enerji ve maliyet modelimizden, Avrupa fiyat düzeyinde. Mesafeler: otlukta 30 m, çalılıkta 50 m, ormanda 50 + 70 m'de çift sıra; yangının tırmandığı bir yamaçta kabaca iki katı.",
-
   "sys_note_lead": "Ve ne olmadığı.",
   "sys_note": "Orman yangınında kaybedilen evlerin %90'a varan bölümü, alev cephesi değil, rüzgârın taşıdığı kıvılcımlar yüzünden tutuşuyor — kıvılcımlar da her şeridin üzerinden uçar. Hat cepheyi durdurur ve ışıma ısısını alır; kıvılcıma dayanıklı menfezler, tel kafesler ve ıslatılmış çatı gerisini halleder. Biz ikisini de veriyoruz ve birinin diğerinin yerini tuttuğunu asla iddia etmeyeceğiz.",
-
+  "band_cap": "Pirinç darbeli bir fıskiye, 15 m yarıçap. Her 20 metrede bir tane konması, bir fıskiye dizisini kesintisiz ıslak şeride dönüştüren şeydir.",
+  "ev_kicker": "Sahada",
+  "ev_h2": "Fıskiyeler orman yangınlarını bugün de durduruyor. Yalnızca birinin gelip hattı elle kurması gerekiyor.",
+  "ev_intro": "Bunlar bizim kurulumlarımız değil. Bir cephe yaklaşırken itfaiye teşkilatlarının ne yaptığını gösteren resmî kayıtlar: hortum seriyor, fıskiye asıyor, taşınabilir depo indiriyor ve orada kalıyorlar. İşe yarıyor — ve mümkün olan en kötü anda, son yüz metrede insan istiyor. İşte bu kısmı otomatikleştiriyor ve 30–100 m dışarıya taşıyoruz.",
+  "ev1_cap": "Suffolk, Virginia, 2011. İtfaiyeciler tarihi bir binanın çevresine az önce kurdukları fıskiye sistemini deniyor. Suyu işini yapıyor; kurulum bir ekibe ve bir güne mal oldu.",
+  "ev2_cap": "Rogue-Siskiyou Ulusal Ormanı, Oregon, 2018. Taşınabilir depolar, pompalar, hortumlar, fıskiyeler ve binada yansıtıcı folyo. Tekniğin bugünkü sınırı bu — yangın günü oraya taşınmış hâliyle.",
+  "ev3_cap": "Jefferson County, Oregon. Yangın koruması değil, sulama — ama yine de tam olarak bizim hattımızın geometrisi: eşit aralıklı dikmeler, üst üste binen daireler, tek bir kesintisiz ıslak şerit.",
+  "ev_note_lead": "Bu fotoğrafların hiçbiri bize ait değil.",
+  "ev_note": "Kurulmuş hiçbir referansımız yok ve bu sayfadaki hiçbir görsel kendi işimizi göstermiyor. Onları, aynı fiziği — ve aynı sınırı — gösterdikleri için kullanıyoruz. Her birinin kaynağı ve lisansı altında yazılıdır.",
   "off_kicker": "Ortaklık",
   "off_h2": "İş aramıyoruz. Bir proje getiriyoruz.",
   "off_big": "Tasarlayabiliriz, boyutlandırabiliriz, kumanda yazılımını yazabiliriz ve inşasını yönetebiliriz. Yapamayacağımız şey ilk kurulumu finanse etmek. Teklifin tamamı bu, açık açık söylenmiş hali.",
@@ -130,7 +125,6 @@
   "off_first": "100–200 metrelik bir gösteri hattı; enstrümanlı, filme alınmış, ölçülmüş. Aday bir saha da hazır: Vietnam'da yaklaşık beş altı hektarlık bir sanayi tesisinin çevresi — kendi arazimiz, kendi ekibimiz, kendi tedariğimiz. Var olan en ucuz inandırıcı kanıt bu ve bir çizimi ölçülmüş veriye dönüştüren de bu.",
   "off_note_lead": "Ve elimizde olmayanların dürüst listesi.",
   "off_note": "Kurulmuş bir referans yok. İmzalanmış bir yangın projesi yok. Hiçbir ülkede lisans yok. Buna karşılık elimizde olan: maliyet düzeyine kadar hesaplanmış bir konsept, rakiplerin ve mevzuatın yazılı tam resmi, bunu bir fıskiye değil savunma hattı yapan yazılım ve daha önce teslim etmiş bir proje yöneticisi. Bu listeyi sonradan bulunmasına bırakmaktansa onunla açmayı tercih ediyoruz.",
-
   "team_kicker": "Biz kimiz",
   "team_h2": "Bir proje yöneticisi, bir sistem mühendisi — ve hâlâ eksik olanların dürüst listesi.",
   "p1_name": "Nguyễn Đặng Liên",
@@ -149,14 +143,12 @@
   "p2_tag1": "Kumanda ve telemetri",
   "p2_tag2": "Sigortacı için veri",
   "p2_tag3": "Macarca · İngilizce",
-
   "con_kicker": "İletişim",
   "con_h2": "Bize bir saha ve bir soru gönderin. Size bir tasarım gönderelim.",
   "con_big": "Yangın güvenliği, sulama ya da altyapı işi yapıyorsanız ve savunulması gereken bir çeviriniz varsa — aradığımız görüşme tam olarak budur. İngilizce, Macarca ve Vietnamca yanıt veriyoruz.",
   "con_btn1": "Bize yazın",
   "con_btn2": "Diğer diller",
   "con_note": "Konsept çalışmasının tamamı, maliyet modeli ve rakip analizi talep üzerine Macarca veya İngilizce olarak sunulur.",
-
   "foot_brand": "Durdurma Hattı",
   "foot_tagline": "Orman yangını savunma mühendisliği · çalışma adı, marka araştırması bekleniyor",
   "foot_ref1": "Bugüne kadar kurulmuş referans yok.",

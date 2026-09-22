@@ -2,28 +2,23 @@
   "_lang": "pt",
   "_native": "Português",
   "_file": "pt.html",
-
   "title": "A Linha de Contenção — defesa contra incêndios rurais a 30–100 m da casa",
   "description": "Uma linha de defesa automática contra incêndios rurais, instalada 30 a 100 metros à frente das habitações. Projetada, orçamentada e pronta a construir — procuramos o parceiro que construa a primeira.",
-
   "brand_html": "A Linha de <span>Contenção</span>",
   "nav_gap": "A lacuna",
   "nav_system": "O sistema",
   "nav_offer": "Parceria",
   "nav_team": "Quem somos",
   "nav_lang": "Idioma",
-
   "hero_eyebrow": "Engenharia de defesa contra incêndios rurais · Europa · EUA · Sudeste Asiático",
   "hero_h1": "Toda a gente protege a casa. Nós travamos o fogo <em>antes de ele lá chegar</em>.",
   "hero_lead1": "Uma linha de defesa automática, 30 a 100 metros mais para fora: uma faixa húmida contínua que se forma sozinha no momento em que uma frente de fogo se aproxima — com água própria, energia solar própria, com um agente sem flúor e sem ninguém no local.",
   "hero_lead2": "A engenharia está feita. Os custos estão modelados. O que procuramos é o parceiro que construa a primeira.",
   "hero_btn1": "O que trazemos, do que precisamos",
   "hero_btn2": "Como funciona o sistema",
-
   "gap_kicker": "A lacuna",
   "gap_h2": "Duas perguntas decidem tudo: a que distância e quando.",
   "gap_big": "Todos os produtos de proteção contra incêndios rurais no mercado respondem a essas duas perguntas — e quase todos respondem da mesma maneira: <strong>junto à casa, e quando o fogo já lá está.</strong> Se desenharmos o setor sobre esses dois eixos, aparece um quadrante vazio.",
-
   "svg_aria": "Corte desde o mato até à casa, mostrando onde atua cada abordagem de proteção",
   "svg_firefront": "Frente de fogo",
   "svg_band_title": "Faixa húmida contínua · 22 m",
@@ -34,9 +29,7 @@
   "svg_matrix": "Matrix Wildfire — faixa tratada, meses antes",
   "svg_us": "Nós — a molhar, no momento em que a frente chega",
   "svg_structure": "Frontline, waveGUARD, House Water Dome — o edifício",
-
   "gap_figcaption": "Onde atua cada abordagem. A faixa tratada é aplicada meses antes e degrada-se; os sistemas de edifício cobrem a casa quando o fogo já está no terreno; as unidades móveis têm de chegar. A faixa a 30–100 m forma-se sozinha no momento em que a frente a alcança — e esse quadrante está hoje vazio.",
-
   "gap_th1": "Quando atua",
   "gap_th2": "Quem",
   "gap_th3": "O seu limite",
@@ -52,11 +45,9 @@
   "gap_r4c1": "Nesse momento",
   "gap_r4c2": "A Linha de Contenção",
   "gap_r4c3": "Hoje ninguém cobre isto",
-
   "gap_note1_lead": "Não fomos nós que inventámos esta ideia, e somos os primeiros a dizê-lo.",
   "gap_note1": "Em Espanha, a Medi XXI constrói desde 2006 defesas de perímetro com canhões à volta de urbanizações e tem uma patente concedida. Em França, a STME FIRE investiga exatamente isto. Em Portugal, investigadores universitários rodearam uma aldeia com doze colunas de aspersão em 2020. Nos Estados Unidos, duas empresas com financiamento constroem barreiras à escala industrial.",
   "gap_note2": "O que ninguém está a fazer é precisamente aquilo que nós desenhámos: <strong>uma linha de contenção suficientemente pequena, suficientemente barata e suficientemente automática para ser comprada por uma casa ou por uma rua</strong> — uma faixa contínua feita de aspersores pequenos em vez de alguns canhões grandes, com duplo disparo, independente em energia, e com um agente que já hoje cumpre a proibição europeia de 2030 das espumas fluoradas.",
-
   "sys_kicker": "O sistema",
   "sys_h2": "Uma linha que passa o ano inteiro seca e se molha a si própria em noventa segundos.",
   "sys_c1_h": "Contínua, não pontual",
@@ -71,7 +62,6 @@
   "sys_c5_p": "Os detetores de chama dizem de que arco vem a frente, por isso só esse setor arranca, mais dois postes de margem. A água dura duas a três vezes mais.",
   "sys_c6_h": "Regista tudo",
   "sys_c6_p": "Hora de arranque, pressão, água consumida, temperatura, vento, tempo de funcionamento. A seguradora dá preço àquilo que consegue modelar — por isso a linha produz a prova desde o primeiro dia.",
-
   "sys_h3_phases": "Como funciona — em cinco fases",
   "sys_p1_label": "Repouso, todo o ano",
   "sys_p1_p": "A linha está seca. Um autoteste semanal aciona as válvulas, o painel solar mantém a bateria carregada e o depósito cheio. Nada funciona em vão — e a mesma rede de tubagem pode servir para rega.",
@@ -85,7 +75,6 @@
   "sys_p5_p": "Pelo menos quatro horas a partir do depósito próprio. O setor ativo acompanha a frente enquanto ela passa, e a faixa continua a arrefecer o solo depois de a chama ter ido embora — é isso que trava um reacendimento.",
   "sys_p6_label": "Depois",
   "sys_p6_p": "Um relatório do evento: hora de arranque, tempo de funcionamento, pressões, água e agente consumidos, temperatura e vento. Este é o processo que uma seguradora consegue modelar — e a razão pela qual a prova existe desde o primeiro incêndio.",
-
   "sys_h3_installed": "O que é realmente instalado",
   "inst_th1": "À superfície",
   "inst_th2": "Debaixo do solo",
@@ -94,7 +83,6 @@
   "inst_td2": "Conduta principal em HDPE, enterrada a 0,45–0,5 m<br>Tubo metálico em todos os pontos onde vem à superfície<br>Válvulas de seccionamento por arco<br>Uma vala de recolha que devolve ao depósito a água não evaporada",
   "inst_td3": "Depósito dimensionado ao tipo de vegetação<br>Bomba elétrica e reserva a gasóleo com arranque automático<br>Painel solar, bateria LiFePO4 em armário resistente ao fogo<br>Doseador de espuma 0,1–1 % e depósito de concentrado<br>Comando: 4G, recetor de alertas de satélite, sensores meteorológicos e de nível",
   "inst_note": "Uniões normalizadas de bombeiros no depósito, para que um veículo possa aspirar dele — o código de construção valenciano exige-o expressamente, e é a forma mais rápida de tornar os bombeiros locais um aliado e não um obstáculo.",
-
   "sys_h3_numbers": "Os números",
   "num_th1": "Por poste, por incêndio",
   "num_th2": "Por casa, anel de proteção completo",
@@ -103,10 +91,17 @@
   "num_td2": "<strong>31 000–82 000 €</strong> pastagem (13 postes)<br><strong>37 000–98 000 €</strong> mato (19 postes)<br><strong>62 000–163 000 €</strong> floresta (44 postes)<br>7 700 / 15 200 / 25 200 m² protegidos",
   "num_td3": "<strong>121 000–251 000 $</strong><br>= <strong>1 500–7 400 € por habitação</strong><br>A versão que uma rua consegue realmente pagar",
   "num_note": "Valores do nosso próprio modelo hidráulico, energético e de custos, a níveis de preço europeus. Distâncias: 30 m em pastagem, 50 m em mato, fila dupla a 50 + 70 m em floresta; sensivelmente o dobro numa encosta que o fogo sobe.",
-
   "sys_note_lead": "E o que não é.",
   "sys_note": "Até 90 % das casas perdidas num incêndio rural são incendiadas por fagulhas levadas pelo vento, e não pela frente de chama — e as fagulhas voam por cima de qualquer faixa. A linha trava a frente e retira o calor radiante; as grelhas e redes resistentes a fagulhas e um telhado molhado fazem o resto. Fornecemos as duas coisas, e nunca diremos que uma substitui a outra.",
-
+  "band_cap": "Um aspersor de impacto em latão, 15 m de raio. É pôr um a cada 20 metros que transforma uma fila de aspersores numa faixa húmida contínua.",
+  "ev_kicker": "No terreno",
+  "ev_h2": "Os aspersores já travam incêndios rurais. O que é preciso hoje é que alguém chegue e monte a linha à mão.",
+  "ev_intro": "Estas não são instalações nossas. São imagens oficiais do que os bombeiros fazem quando se aproxima uma frente: estender mangueiras, pendurar aspersores, colocar depósitos portáteis e ficar no local. Funciona — e exige pessoas, no pior momento possível, nos últimos cem metros. É essa a parte que automatizamos e levamos para 30–100 m.",
+  "ev1_cap": "Suffolk, Virgínia, 2011. Bombeiros testam um sistema de aspersão que acabaram de montar em redor de um edifício histórico. A água faz o trabalho; a montagem custou uma equipa e um dia.",
+  "ev2_cap": "Floresta Nacional de Rogue-Siskiyou, Oregon, 2018. Depósitos portáteis, bombas, mangueiras, aspersores e folha reflectora no edifício. É este o estado da arte — transportado para lá no dia do incêndio.",
+  "ev3_cap": "Condado de Jefferson, Oregon. Não é proteção contra incêndio, é rega — e mesmo assim é exatamente a geometria da nossa linha: colunas a intervalos regulares, círculos que se sobrepõem, uma única faixa húmida contínua.",
+  "ev_note_lead": "Nenhuma destas fotografias é nossa.",
+  "ev_note": "Não temos qualquer referência instalada, e nenhuma imagem desta página mostra trabalho nosso. Usamo-las porque mostram a mesma física — e o mesmo limite. A fonte e a licença de cada uma estão impressas por baixo.",
   "off_kicker": "A parceria",
   "off_h2": "Não andamos à procura de emprego. Trazemos um projeto.",
   "off_big": "Sabemos projetá-lo, dimensioná-lo, escrever o software de comando e dirigir a sua construção. O que não conseguimos é financiar a primeira instalação. É esta a proposta toda, dita sem rodeios.",
@@ -130,7 +125,6 @@
   "off_first": "Uma linha de demonstração de 100–200 metros, instrumentada, filmada, medida. Já temos um local candidato: o perímetro de uma unidade industrial de cerca de cinco a seis hectares no Vietname — terreno nosso, equipa nossa, compras nossas. É a prova credível mais barata que existe, e é o que transforma um desenho em evidência.",
   "off_note_lead": "E a lista honesta do que não temos.",
   "off_note": "Nenhuma referência instalada. Nenhum projeto de segurança contra incêndio assinado. Nenhuma licença em qualquer jurisdição. O que temos é um conceito calculado até ao nível de custo, o panorama dos concorrentes e da regulamentação por escrito, o software que faz disto uma linha de defesa e não um aspersor, e um diretor de projeto que já entregou antes. Preferimos abrir com essa lista a que a descubram depois.",
-
   "team_kicker": "Quem somos",
   "team_h2": "Um diretor de projeto, um engenheiro de sistemas — e uma lista honesta do que ainda nos falta.",
   "p1_name": "Nguyễn Đặng Liên",
@@ -149,14 +143,12 @@
   "p2_tag1": "Comando e telemetria",
   "p2_tag2": "Dados para seguradoras",
   "p2_tag3": "húngaro · inglês",
-
   "con_kicker": "Contacto",
   "con_h2": "Mande-nos um local e uma pergunta. Devolvemos um projeto.",
   "con_big": "Se constrói proteção contra incêndio, rega ou infraestruturas, e tem um perímetro que é preciso defender — é exatamente essa a conversa que procuramos. Respondemos em inglês, húngaro e vietnamita.",
   "con_btn1": "Escreva-nos",
   "con_btn2": "Outros idiomas",
   "con_note": "O estudo de conceito completo, o modelo de custos e a análise de concorrentes estão disponíveis mediante pedido, em húngaro ou em inglês.",
-
   "foot_brand": "A Linha de Contenção",
   "foot_tagline": "Engenharia de defesa contra incêndios rurais · nome provisório, a aguardar verificação de marca",
   "foot_ref1": "Até à data, nenhuma referência instalada.",

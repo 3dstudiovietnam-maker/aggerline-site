@@ -2,28 +2,23 @@
   "_lang": "hu",
   "_native": "Magyar",
   "_file": "hu.html",
-
   "title": "A Védővonal — tűzvédelem 30–100 méterrel a ház előtt",
   "description": "Automata tűzvédelmi vonal 30–100 méterrel a házak előtt. A terv kész, a költségek modellezve — azt a partnert keressük, aki megépíti az elsőt.",
-
   "brand_html": "A Védő<span>vonal</span>",
   "nav_gap": "A hiányzó láncszem",
   "nav_system": "A rendszer",
   "nav_offer": "Partnerség",
   "nav_team": "Kik vagyunk",
   "nav_lang": "Nyelv",
-
   "hero_eyebrow": "Tűzvédelmi mérnöki munka · Európa · USA · Délkelet-Ázsia",
   "hero_h1": "Mindenki a házat védi. Mi a tüzet állítjuk meg, <em>mielőtt odaér</em>.",
   "hero_lead1": "Automata védővonal harminc-száz méterrel kijjebb: folytonos nedves sáv, amely magától áll össze, amikor a tűzfront közeledik — saját vízből, saját napelemes áramból, fluormentes oltóanyaggal, és úgy, hogy közben senki nincs a helyszínen.",
   "hero_lead2": "A mérnöki munka kész. A költségek modellezve. Azt a partnert keressük, aki megépíti az elsőt.",
   "hero_btn1": "Mit adunk, mire van szükségünk",
   "hero_btn2": "Hogyan működik",
-
   "gap_kicker": "A hiányzó láncszem",
   "gap_h2": "Két kérdés dönt el mindent: milyen messze, és mikor.",
   "gap_big": "A piacon lévő összes tűzvédelmi termék erre a két kérdésre válaszol — és szinte mindegyik ugyanúgy: <strong>a háznál, és akkor, amikor a tűz már ott van.</strong> Ha a mezőnyt erre a két tengelyre rajzoljuk fel, kirajzolódik egy üres négyzet.",
-
   "svg_aria": "Metszet a vadontól a házig, amely megmutatja, hol hat az egyes védelmi megoldás",
   "svg_firefront": "Tűzfront",
   "svg_band_title": "Folytonos nedves sáv · 22 m",
@@ -34,9 +29,7 @@
   "svg_matrix": "Matrix Wildfire — kezelt sáv, hónapokkal előre",
   "svg_us": "Mi — nedvesen, a front érkezésének pillanatában",
   "svg_structure": "Frontline, waveGUARD, House Water Dome — az épület",
-
   "gap_figcaption": "Hol hat az egyes megoldás. A kezelt sávot hónapokkal előre viszik fel, és lebomlik; az épület-rendszerek akkor vonják be a házat, amikor a tűz már a telken van; a mobil egységeknek oda kell érniük. A 30–100 méteres sáv abban a pillanatban áll össze, amikor a front odaér — és ez a négyzet ma üres.",
-
   "gap_th1": "Mikor hat",
   "gap_th2": "Ki",
   "gap_th3": "A korlátja",
@@ -52,11 +45,9 @@
   "gap_r4c1": "Abban a pillanatban",
   "gap_r4c2": "A Védővonal",
   "gap_r4c3": "Ezt ma senki nem fedi le",
-
   "gap_note1_lead": "Nem mi találtuk fel ezt az ötletet, és ezt mi mondjuk ki elsőként.",
   "gap_note1": "Spanyolországban a Medi XXI 2006 óta épít vízágyús kerületvédelmet lakóparkok köré, és megadott szabadalma van rá. Franciaországban az STME FIRE pontosan ezt kutatja. Portugáliában egyetemi kutatók 2020-ban tizenkét szóróoszloppal vették körül egy falut. Amerikában két tőkeerős cég épít védősávot ipari léptékben.",
   "gap_note2": "Amit viszont senki nem csinál, az pont az, amit mi megépítettünk: <strong>olyan védővonal, amely elég kicsi, elég olcsó és elég automata ahhoz, hogy egy ház vagy egy utca megvegye</strong> — folytonos sáv kis fejekből néhány nagy vízágyú helyett, kettős indítással, energiafüggetlenül, olyan oltóanyaggal, amely már ma megfelel a fluoros habok 2030-as európai tilalmának.",
-
   "sys_kicker": "A rendszer",
   "sys_h2": "Egy vonal, amely egész évben szárazon áll, és másfél perc alatt nedvesíti be magát.",
   "sys_c1_h": "Folytonos, nem pontszerű",
@@ -71,7 +62,6 @@
   "sys_c5_p": "A lángérzékelők mondják meg, melyik ív felől jön a front, így csak az a szakasz indul, plusz két oszlop ráhagyás. A víz két-háromszor tovább tart.",
   "sys_c6_h": "Mindent naplóz",
   "sys_c6_p": "Indulási idő, nyomás, vízfogyás, hőmérséklet, szél, üzemidő. A biztosító azt árazza be, amit modellezni tud — ezért a vonal az első naptól termeli a bizonyítékot.",
-
   "sys_h3_phases": "Hogyan működik — öt fázisban",
   "sys_p1_label": "Készenlét, egész évben",
   "sys_p1_p": "A vonal szárazon áll. Heti önteszt átjáratja a szelepeket, a napelem tölti az akkumulátort, a tartály tele marad. Semmi nem jár feleslegesen — és ugyanaz a csőhálózat öntözésre is használható.",
@@ -85,7 +75,6 @@
   "sys_p5_p": "Legalább négy óra a saját tartályból. Az aktív szektor követi az áthaladó frontot, a sáv pedig a láng elvonulása után is hűti a talajt — ez az, ami a visszagyulladást megállítja.",
   "sys_p6_label": "Utána",
   "sys_p6_p": "Eseményjelentés: indulási idő, üzemidő, nyomások, elhasznált víz és oltóanyag, hőmérséklet és szél. Ez az az akta, amit egy biztosító modellezni tud — és ezért van bizonyítékunk már az első tűztől kezdve.",
-
   "sys_h3_installed": "Mi épül be valójában",
   "inst_th1": "A felszínen",
   "inst_th2": "A föld alatt",
@@ -94,7 +83,6 @@
   "inst_td2": "HDPE gerincvezeték 0,45–0,5 m mélyen<br>Fém cső mindenhol, ahol felszínre jön<br>Szakaszoló szelepek ívenként<br>Felfogó árok, amely az el nem párolgott vizet visszavezeti a tartályba",
   "inst_td3": "Tartály, a növényzettípushoz méretezve<br>Villamos szivattyú és automata indítású dízel tartalék<br>Napelemtábla, LiFePO4 akkumulátor tűzálló szekrényben<br>Habadagoló 0,1–1% és koncentrátum-tartály<br>Vezérlés: 4G, műholdas riasztás-vevő, időjárás- és szintérzékelők",
   "inst_note": "A tartályon szabványos tűzoltó-csatlakozó, hogy a tűzoltóautó rá tudjon kapcsolódni — a valenciai építési előírás ezt nevesítve kéri, és ez a leggyorsabb módja annak, hogy a helyi tűzoltóság szövetséges legyen, ne akadály.",
-
   "sys_h3_numbers": "A számok",
   "num_th1": "Oszloponként, egy tűzesetre",
   "num_th2": "Házanként, teljes védőgyűrű",
@@ -103,10 +91,17 @@
   "num_td2": "<strong>31–82 ezer €</strong> fű (13 oszlop)<br><strong>37–98 ezer €</strong> bozót (19 oszlop)<br><strong>62–163 ezer €</strong> erdő (44 oszlop)<br>7 700 / 15 200 / 25 200 m² védett terület",
   "num_td3": "<strong>121–251 ezer $</strong><br>= <strong>házanként 1 500–7 400 €</strong><br>Ez az a változat, amit egy utca valóban ki tud fizetni",
   "num_note": "Az értékek a saját hidraulikai, energetikai és költségmodellünkből származnak, európai árszinten. Távolságok: fűnél 30 méter, bozótnál 50, erdőnél dupla sor 50 és 70 méteren; ha a tűz lejtőn felfelé jön, nagyjából a kétszerese.",
-
   "sys_note_lead": "És ami nem.",
   "sys_note": "Az erdőtűzben elvesző házak akár 90%-át a szél hajtotta parázs gyújtja meg, nem a lángfront — a parázs pedig bármilyen sáv felett átrepül. A vonal a frontot állítja meg és a sugárzó hőt veszi le; a parázsálló szellőzők, hálók és a nedvesített tető a többit. Mi mindkettőt adjuk, és soha nem fogjuk azt állítani, hogy az egyik helyettesíti a másikat.",
-
+  "band_cap": "Sárgaréz ütőkaros fej, 15 méter sugár. Attól lesz a szórófejek sorából megszakítás nélküli nedves sáv, hogy 20 méterenként áll egy.",
+  "ev_kicker": "A terepen",
+  "ev_h2": "A szórófej ma is megállítja a tüzet. Csak valakinek oda kell érnie, és kézzel kiépítenie a vonalat.",
+  "ev_intro": "Ezek nem a mi telepítéseink. Hatósági fotók arról, amit a tűzoltóság csinál, amikor jön a front: tömlőt húznak, szórófejeket akasztanak, hordozható tartályokat tesznek le, és ott maradnak. Működik — és embert kíván, a lehető legrosszabb pillanatban, az utolsó száz méteren. Ezt a részt automatizáljuk, és visszük ki 30–100 méterre.",
+  "ev1_cap": "Suffolk, Virginia, 2011. Tűzoltók próbálják a szórófejrendszert, amelyet épp most szereltek egy műemlék épület köré. A víz elvégzi a dolgát; a telepítés egy brigádot és egy napot vitt el.",
+  "ev2_cap": "Rogue-Siskiyou Nemzeti Erdő, Oregon, 2018. Hordozható tartályok, szivattyúk, tömlők, szórófejek és fóliaburkolat az épületen. Ez a technika mai csúcsa — a tűz napján odacipelve.",
+  "ev3_cap": "Jefferson megye, Oregon. Nem tűzvédelem, hanem öntözés — mégis pontosan ez a mi vonalunk geometriája: egyenletesen osztott oszlopok, átfedő körök, egyetlen folytonos nedves sáv.",
+  "ev_note_lead": "Egyik kép sem a miénk.",
+  "ev_note": "Nincs telepített referenciánk, és ezen az oldalon egyetlen fotó sem a saját munkánkról készült. Azért használjuk őket, mert ugyanazt a fizikát mutatják — és ugyanazt a korlátot. A forrás és a licenc minden kép alatt ott van.",
   "off_kicker": "A partnerség",
   "off_h2": "Nem állást keresünk. Projektet hozunk.",
   "off_big": "Meg tudjuk tervezni, ki tudjuk méretezni, meg tudjuk írni a vezérlését, és le tudjuk vezényelni az építését. Amit nem tudunk, az az első telepítés finanszírozása. Ennyi az ajánlat, kertelés nélkül.",
@@ -130,7 +125,6 @@
   "off_first": "Egy 100–200 méteres bemutató vonal, műszerezve, filmezve, megmérve. A helyszín is megvan hozzá: egy nagyjából öt-hat hektáros ipari üzem kerülete Vietnámban — saját föld, saját brigád, saját beszerzés. Ez a létező legolcsóbb hiteles bizonyíték, és ez az, ami a rajzból tényt csinál.",
   "off_note_lead": "És az őszinte lista arról, amink nincs.",
   "off_note": "Nincs telepített referenciánk. Nincs aláírt tűzvédelmi tervünk. Nincs engedélyünk egyetlen országban sem. Ami viszont van: költségszintig végigszámolt koncepció, írásban a versenytársak és a szabályozás teljes képe, a szoftver, amitől ez védővonal lesz és nem szórófej, és egy projektvezető, aki már adott át beruházást. Inkább ezzel a listával nyitunk, mint hogy utólag találják meg.",
-
   "team_kicker": "Kik vagyunk",
   "team_h2": "Egy projektvezető, egy rendszermérnök — és egy őszinte lista arról, mi hiányzik még.",
   "p1_name": "Nguyễn Đặng Liên",
@@ -149,14 +143,12 @@
   "p2_tag1": "Vezérlés és telemetria",
   "p2_tag2": "Adat a biztosítónak",
   "p2_tag3": "magyar · angol",
-
   "con_kicker": "Kapcsolat",
   "con_h2": "Küldjön egy helyszínt és egy kérdést. Mi tervet küldünk vissza.",
   "con_big": "Ha tűzvédelmet, öntözést vagy infrastruktúrát épít, és van egy kerülete, amit meg kell védeni — pontosan ez az a beszélgetés, amit keresünk. Angolul, magyarul és vietnamiul válaszolunk.",
   "con_btn1": "Írjon nekünk",
   "con_btn2": "További nyelvek",
   "con_note": "A teljes koncepcióterv, a költségmodell és a versenytárs-elemzés kérésre elérhető, magyarul vagy angolul.",
-
   "foot_brand": "A Védővonal",
   "foot_tagline": "Tűzvédelmi mérnöki munka · munkanév, védjegy-ellenőrzés alatt",
   "foot_ref1": "Telepített referencia egyelőre nincs.",
