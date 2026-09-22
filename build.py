@@ -25,12 +25,12 @@ BASE = "https://firefence.homes/"
 # markets this project actually sells into.
 ORDER = [
     "en", "hu", "hi", "zh", "vi", "de", "es", "pt", "ru", "th", "ro",
-    "it", "el", "tr", "hr",
+    "it", "el", "tr", "hr", "fr",
 ]
 
 # Finished translations not published today. Add a code to ORDER above and
 # it is built and appears in the menu — nothing else to change.
-PARKED = ["fr"]
+PARKED = []
 
 # Keys that are build-time metadata, not page text.
 META = {"_lang", "_native", "_file"}
