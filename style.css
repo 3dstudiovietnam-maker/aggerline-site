@@ -133,7 +133,61 @@ footer a{color:var(--ink-2)}
   .g2,.g3,.g4{grid-template-columns:1fr}
   .person{grid-template-columns:1fr;gap:16px}
   .avatar{width:84px;height:84px;font-size:32px}
-  nav.links a:not(.lang){display:none}
+  nav.links > a{display:none}
   table{font-size:14px}
   th,td{padding:10px 8px}
 }
+
+/* ---------- language picker (11 languages, no JavaScript) ---------- */
+.langpick{position:relative;margin-left:2px}
+.langpick summary{list-style:none;cursor:pointer;border:1px solid var(--line);border-radius:999px;
+  padding:5px 13px;font-size:13.5px;color:var(--ink-2);background:var(--paper-2);
+  -webkit-user-select:none;user-select:none;white-space:nowrap}
+.langpick summary::-webkit-details-marker{display:none}
+.langpick summary::after{content:"\25BE";margin-left:7px;font-size:10px;color:var(--muted)}
+.langpick summary:hover{border-color:var(--accent);color:var(--accent)}
+.langpick[open] summary{border-color:var(--accent);color:var(--accent)}
+.langpick-menu{position:absolute;right:0;top:calc(100% + 9px);z-index:60;padding:6px;
+  min-width:178px;background:var(--paper-2);border:1px solid var(--line);border-radius:6px;
+  box-shadow:0 12px 34px rgba(13,27,36,.16)}
+.langpick-item{display:block;padding:8px 12px;border-radius:4px;font-size:14.5px;
+  color:var(--ink-2);white-space:nowrap}
+a.langpick-item:hover{background:var(--band-soft);color:var(--ink);text-decoration:none}
+.langpick-item.is-current{background:var(--accent-soft);color:var(--accent);font-weight:600}
+
+/* ---------- footer language bar ---------- */
+#languages{scroll-margin-top:86px}
+footer .wrap.langbar{display:flex;justify-content:flex-start;flex-wrap:wrap;gap:9px 18px;
+  align-items:baseline;margin-top:34px;padding-top:24px;border-top:1px solid var(--line);
+  font-size:14.5px}
+.langbar-label{flex-basis:100%;color:var(--muted);margin-bottom:-3px}
+.langbar a{color:var(--ink-2)}
+.langbar .is-current{color:var(--accent);font-weight:600}
+
+/* ---------- per-script typography ----------
+   Thai and Devanagari stack marks above and below the line: at the Latin
+   line-height they collide. Greek and Vietnamese need a little air too. */
+html[lang="el"] body,html[lang="vi"] body{line-height:1.7}
+html[lang="el"] h1,html[lang="vi"] h1{line-height:1.14}
+html[lang="el"] h2,html[lang="vi"] h2{line-height:1.22}
+
+html[lang="th"] body,html[lang="hi"] body{line-height:1.85}
+html[lang="th"] h1,html[lang="hi"] h1{line-height:1.35}
+html[lang="th"] h2,html[lang="hi"] h2,html[lang="th"] h3,html[lang="hi"] h3{line-height:1.45}
+html[lang="th"] .lead,html[lang="hi"] .lead,
+html[lang="th"] .big,html[lang="hi"] .big{line-height:1.8}
+html[lang="th"] .stat small,html[lang="hi"] .stat small{line-height:1.6}
+html[lang="th"] body{word-break:break-word;-webkit-line-break:loose;line-break:loose}
+
+/* Chinese: no word spaces, so let it wrap anywhere and give it a font
+   stack that actually exists on Chinese systems. */
+html[lang="zh"] body{line-height:1.8;word-break:break-word;
+  font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB",
+  "Microsoft YaHei","Noto Sans CJK SC","Segoe UI",sans-serif}
+html[lang="zh"] h1{line-height:1.3;letter-spacing:0}
+html[lang="zh"] h2{line-height:1.35;letter-spacing:0}
+html[lang="zh"] h1,html[lang="zh"] h2,html[lang="zh"] .brand{font-family:inherit}
+html[lang="zh"] td.num{white-space:normal}
+
+/* Russian and Romanian words run long; keep headlines from overflowing. */
+html[lang="ru"] h1,html[lang="ro"] h1{hyphens:auto;overflow-wrap:break-word}

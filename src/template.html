@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="{{lang}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{title}}</title>
+<meta name="description" content="{{description}}">
+<meta name="robots" content="noindex,nofollow">
+{{hreflang}}
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛡️</text></svg>">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <div class="brand">{{brand_html}}</div>
+    <nav class="links">
+      <a href="#gap">{{nav_gap}}</a>
+      <a href="#system">{{nav_system}}</a>
+      <a href="#offer">{{nav_offer}}</a>
+      <a href="#team">{{nav_team}}</a>
+{{lang_menu}}
+    </nav>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <div class="eyebrow">{{hero_eyebrow}}</div>
+    <h1>{{hero_h1}}</h1>
+    <p class="lead">{{hero_lead1}}</p>
+    <p class="lead"><strong>{{hero_lead2}}</strong></p>
+    <div class="cta">
+      <a class="btn btn-1" href="#offer">{{hero_btn1}}</a>
+      <a class="btn btn-2" href="#system">{{hero_btn2}}</a>
+    </div>
+  </div>
+</div>
+
+<section id="gap">
+  <div class="wrap">
+    <div class="kicker">{{gap_kicker}}</div>
+    <h2>{{gap_h2}}</h2>
+    <p class="big">{{gap_big}}</p>
+
+    <figure>
+      <svg viewBox="0 0 1200 496" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="{{svg_aria}}">
+        <defs>
+          <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#f4f2ee"/>
+          </linearGradient>
+          <pattern id="wet" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+            <rect width="9" height="9" fill="#dceaed"/>
+            <line x1="0" y1="0" x2="0" y2="9" stroke="#2f7d8c" stroke-width="2.4" opacity=".55"/>
+          </pattern>
+        </defs>
+
+        <rect x="0" y="0" width="1200" height="496" fill="url(#sky)"/>
+
+        <!-- ground -->
+        <rect x="0" y="330" width="1200" height="8" fill="#c9c2b6"/>
+
+        <!-- wildland trees -->
+        <g fill="#5f7360">
+          <path d="M40 330 L62 262 L84 330 Z"/><path d="M96 330 L114 278 L132 330 Z"/>
+          <path d="M150 330 L176 250 L202 330 Z"/><path d="M214 330 L232 282 L250 330 Z"/>
+          <path d="M268 330 L292 258 L316 330 Z"/><path d="M330 330 L350 276 L370 330 Z"/>
+          <path d="M386 330 L410 254 L434 330 Z"/><path d="M448 330 L466 284 L484 330 Z"/>
+          <path d="M500 330 L524 264 L548 330 Z"/>
+        </g>
+        <g fill="#8a9a7f">
+          <path d="M566 330 L580 296 L594 330 Z"/><path d="M600 330 L612 302 L624 330 Z"/>
+        </g>
+
+        <!-- fire front -->
+        <g>
+          <path d="M20 330 C 34 288, 10 276, 30 244 C 52 272, 74 268, 64 300 C 84 288, 86 316, 74 330 Z" fill="#c4531f" opacity=".92"/>
+          <path d="M96 330 C 106 300, 90 292, 104 268 C 120 288, 136 284, 128 308 C 142 300, 144 320, 136 330 Z" fill="#e07a3c" opacity=".85"/>
+          <text x="30" y="226" font-family="-apple-system,Segoe UI,Arial" font-size="17" font-weight="700" fill="#c4531f">{{svg_firefront}}</text>
+          <path d="M150 214 L214 214 M204 206 L214 214 L204 222" stroke="#c4531f" stroke-width="2.6" fill="none"/>
+        </g>
+
+        <!-- our wet band 30-100 m -->
+        <rect x="620" y="196" width="244" height="134" fill="url(#wet)"/>
+        <rect x="620" y="196" width="244" height="134" fill="none" stroke="#2f7d8c" stroke-width="2"/>
+        <!-- poles -->
+        <g stroke="#0d1b24" stroke-width="3.4">
+          <line x1="624" y1="330" x2="624" y2="230"/><line x1="684" y1="330" x2="684" y2="230"/>
+          <line x1="744" y1="330" x2="744" y2="230"/><line x1="804" y1="330" x2="804" y2="230"/>
+          <line x1="860" y1="330" x2="860" y2="230"/>
+        </g>
+        <g fill="#2f7d8c">
+          <circle cx="624" cy="226" r="6"/><circle cx="684" cy="226" r="6"/><circle cx="744" cy="226" r="6"/>
+          <circle cx="804" cy="226" r="6"/><circle cx="860" cy="226" r="6"/>
+        </g>
+        <!-- spray arcs -->
+        <g stroke="#2f7d8c" stroke-width="1.8" fill="none" opacity=".75">
+          <path d="M624 224 q30 -28 60 2"/><path d="M684 224 q30 -28 60 2"/>
+          <path d="M744 224 q30 -28 60 2"/><path d="M804 224 q28 -28 56 2"/>
+          <path d="M594 226 q30 -28 60 2"/>
+        </g>
+        <text x="742" y="166" text-anchor="middle" font-family="-apple-system,Segoe UI,Arial" font-size="{{svg_band_title_size}}" font-weight="700" fill="#2f7d8c">{{svg_band_title}}</text>
+        <text x="742" y="186" text-anchor="middle" font-family="-apple-system,Segoe UI,Arial" font-size="{{svg_band_sub_size}}" fill="#5d6b74">{{svg_band_sub}}</text>
+
+        <!-- 10 m zone -->
+        <rect x="1006" y="286" width="74" height="44" fill="#efe6dd" stroke="#d9d3c9"/>
+        <text x="1043" y="278" text-anchor="middle" font-family="-apple-system,Segoe UI,Arial" font-size="13" fill="#5d6b74">0–10 m</text>
+
+        <!-- house -->
+        <g>
+          <rect x="1086" y="268" width="86" height="62" fill="#16303f"/>
+          <path d="M1078 268 L1129 232 L1180 268 Z" fill="#0d1b24"/>
+          <rect x="1116" y="296" width="24" height="34" fill="#c4531f"/>
+        </g>
+
+        <!-- distance axis -->
+        <line x1="620" y1="368" x2="1129" y2="368" stroke="#5d6b74" stroke-width="1.5"/>
+        <g stroke="#5d6b74" stroke-width="1.5">
+          <line x1="620" y1="362" x2="620" y2="374"/><line x1="864" y1="362" x2="864" y2="374"/>
+          <line x1="1006" y1="362" x2="1006" y2="374"/><line x1="1129" y1="362" x2="1129" y2="374"/>
+        </g>
+        <g font-family="-apple-system,Segoe UI,Arial" font-size="13.5" fill="#5d6b74" text-anchor="middle">
+          <text x="620" y="390">100 m</text><text x="864" y="390">30 m</text>
+          <text x="1006" y="390">10 m</text><text x="1129" y="390">0</text>
+        </g>
+
+        <!-- who acts where -->
+        <g font-family="-apple-system,Segoe UI,Arial" font-size="{{svg_legend_size}}">
+          <rect x="120" y="412" width="420" height="4" fill="#9aa7ae"/>
+          <text x="120" y="436" fill="#5d6b74">{{svg_matrix}}</text>
+          <rect x="620" y="412" width="244" height="8" fill="#2f7d8c"/>
+          <text x="620" y="436" font-weight="700" fill="#2f7d8c">{{svg_us}}</text>
+          <rect x="1006" y="458" width="166" height="4" fill="#9aa7ae"/>
+          <text x="1172" y="482" fill="#5d6b74" text-anchor="end">{{svg_structure}}</text>
+        </g>
+      </svg>
+      <figcaption>{{gap_figcaption}}</figcaption>
+    </figure>
+
+    <table>
+      <tr><th>{{gap_th1}}</th><th>{{gap_th2}}</th><th>{{gap_th3}}</th></tr>
+      <tr><td class="num">{{gap_r1c1}}</td><td>{{gap_r1c2}}</td><td>{{gap_r1c3}}</td></tr>
+      <tr><td class="num">{{gap_r2c1}}</td><td>{{gap_r2c2}}</td><td>{{gap_r2c3}}</td></tr>
+      <tr><td class="num">{{gap_r3c1}}</td><td>{{gap_r3c2}}</td><td>{{gap_r3c3}}</td></tr>
+      <tr class="us"><td class="num">{{gap_r4c1}}</td><td>{{gap_r4c2}}</td><td>{{gap_r4c3}}</td></tr>
+    </table>
+
+    <div class="note">
+      <p><strong>{{gap_note1_lead}}</strong> {{gap_note1}}</p>
+      <p>{{gap_note2}}</p>
+    </div>
+  </div>
+</section>
+
+<section id="system">
+  <div class="wrap">
+    <div class="kicker">{{sys_kicker}}</div>
+    <h2>{{sys_h2}}</h2>
+
+    <div class="grid g3">
+      <div class="card"><h3>{{sys_c1_h}}</h3><p>{{sys_c1_p}}</p></div>
+      <div class="card"><h3>{{sys_c2_h}}</h3><p>{{sys_c2_p}}</p></div>
+      <div class="card"><h3>{{sys_c3_h}}</h3><p>{{sys_c3_p}}</p></div>
+      <div class="card"><h3>{{sys_c4_h}}</h3><p>{{sys_c4_p}}</p></div>
+      <div class="card"><h3>{{sys_c5_h}}</h3><p>{{sys_c5_p}}</p></div>
+      <div class="card"><h3>{{sys_c6_h}}</h3><p>{{sys_c6_p}}</p></div>
+    </div>
+
+    <h3>{{sys_h3_phases}}</h3>
+    <div class="grid g3">
+      <div class="card"><div class="stat">1<small>{{sys_p1_label}}</small></div><p>{{sys_p1_p}}</p></div>
+      <div class="card"><div class="stat">2<small>{{sys_p2_label}}</small></div><p>{{sys_p2_p}}</p></div>
+      <div class="card"><div class="stat">3<small>{{sys_p3_label}}</small></div><p>{{sys_p3_p}}</p></div>
+      <div class="card"><div class="stat">4<small>{{sys_p4_label}}</small></div><p>{{sys_p4_p}}</p></div>
+      <div class="card"><div class="stat">5<small>{{sys_p5_label}}</small></div><p>{{sys_p5_p}}</p></div>
+      <div class="card"><div class="stat">6<small>{{sys_p6_label}}</small></div><p>{{sys_p6_p}}</p></div>
+    </div>
+
+    <h3>{{sys_h3_installed}}</h3>
+    <table>
+      <tr><th>{{inst_th1}}</th><th>{{inst_th2}}</th><th>{{inst_th3}}</th></tr>
+      <tr>
+        <td>{{inst_td1}}</td>
+        <td>{{inst_td2}}</td>
+        <td>{{inst_td3}}</td>
+      </tr>
+    </table>
+    <p class="muted">{{inst_note}}</p>
+
+    <h3>{{sys_h3_numbers}}</h3>
+    <table>
+      <tr><th>{{num_th1}}</th><th>{{num_th2}}</th><th>{{num_th3}}</th></tr>
+      <tr>
+        <td>{{num_td1}}</td>
+        <td>{{num_td2}}</td>
+        <td>{{num_td3}}</td>
+      </tr>
+    </table>
+    <p class="muted">{{num_note}}</p>
+
+    <div class="note">
+      <p><strong>{{sys_note_lead}}</strong> {{sys_note}}</p>
+    </div>
+  </div>
+</section>
+
+<section id="offer" class="dark">
+  <div class="wrap">
+    <div class="kicker">{{off_kicker}}</div>
+    <h2>{{off_h2}}</h2>
+    <p class="big">{{off_big}}</p>
+
+    <div class="ask">
+      <div>
+        <h3>{{off_h3_bring}}</h3>
+        <ul>
+          <li>{{off_bring1}}</li>
+          <li>{{off_bring2}}</li>
+          <li>{{off_bring3}}</li>
+          <li>{{off_bring4}}</li>
+          <li>{{off_bring5}}</li>
+          <li>{{off_bring6}}</li>
+        </ul>
+      </div>
+      <div>
+        <h3>{{off_h3_need}}</h3>
+        <ul>
+          <li>{{off_need1}}</li>
+          <li>{{off_need2}}</li>
+          <li><strong>{{off_need3_lead}}</strong> {{off_need3}}</li>
+          <li>{{off_need4}}</li>
+          <li>{{off_need5}}</li>
+        </ul>
+        <h3>{{off_h3_who}}</h3>
+        <p>{{off_who}}</p>
+      </div>
+    </div>
+
+    <h3>{{off_h3_first}}</h3>
+    <p>{{off_first}}</p>
+    <div class="note"><p><strong>{{off_note_lead}}</strong> {{off_note}}</p></div>
+  </div>
+</section>
+
+<section id="team">
+  <div class="wrap">
+    <div class="kicker">{{team_kicker}}</div>
+    <h2>{{team_h2}}</h2>
+
+    <div class="person">
+      <div class="avatar">NL</div>
+      <div>
+        <h3>{{p1_name}}</h3>
+        <div class="role">{{p1_role}}</div>
+        <p>{{p1_bio1}}</p>
+        <p><strong>{{p1_bio2_lead}}</strong> {{p1_bio2}}</p>
+        <div class="tags"><span class="tag">{{p1_tag1}}</span><span class="tag">{{p1_tag2}}</span><span class="tag">{{p1_tag3}}</span><span class="tag">{{p1_tag4}}</span></div>
+      </div>
+    </div>
+
+    <div class="person">
+      <div class="avatar">AK</div>
+      <div>
+        <h3>{{p2_name}}</h3>
+        <div class="role">{{p2_role}}</div>
+        <p>{{p2_bio1}}</p>
+        <p>{{p2_bio2}}</p>
+        <div class="tags"><span class="tag">{{p2_tag1}}</span><span class="tag">{{p2_tag2}}</span><span class="tag">{{p2_tag3}}</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="kicker">{{con_kicker}}</div>
+    <h2>{{con_h2}}</h2>
+    <p class="big">{{con_big}}</p>
+    <div class="cta">
+      <a class="btn btn-1" href="mailto:noxuniverseapp@gmail.com">{{con_btn1}}</a>
+      <a class="btn btn-2" href="#languages">{{con_btn2}}</a>
+    </div>
+    <p class="muted" style="margin-top:28px">{{con_note}}</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <strong>{{foot_brand}}</strong><br>
+      {{foot_tagline}}
+    </div>
+    <div>
+      {{foot_ref1}}<br>
+      {{foot_ref2}}
+    </div>
+  </div>
+  <div class="wrap langbar" id="languages">
+    <span class="langbar-label">{{foot_lang_label}}</span>
+{{lang_footer}}
+  </div>
+</footer>
+
+</body>
+</html>
