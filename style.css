@@ -225,3 +225,21 @@ html[lang="ru"] h1,html[lang="ro"] h1{hyphens:auto;overflow-wrap:break-word}
   .band figcaption{position:static;max-width:none;background:var(--ink);border-radius:0}
   .band .credit{white-space:normal}
 }
+
+/* ---------- click to enlarge ---------- */
+.zoomable{cursor:zoom-in}
+.zoomable:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+dialog.zoom{border:0;padding:0;background:transparent;max-width:96vw;max-height:96vh;
+  color:#e8eef1;overflow:visible}
+dialog.zoom::backdrop{background:rgba(9,18,24,.9)}
+dialog.zoom img{display:block;max-width:94vw;max-height:80vh;width:auto;height:auto;
+  border-radius:4px;background:var(--ink)}
+.zoom-cap{margin:14px 2px 0;max-width:86ch;font-size:14.5px;line-height:1.55;color:#cfdae1}
+.zoom-close{position:fixed;top:14px;right:16px;width:42px;height:42px;border-radius:50%;
+  border:1px solid rgba(255,255,255,.34);background:rgba(13,27,36,.72);color:#fff;
+  font-size:23px;line-height:1;cursor:pointer;padding:0}
+.zoom-close:hover{background:var(--accent);border-color:var(--accent)}
+@media (max-width:640px){
+  dialog.zoom img{max-height:68vh}
+  .zoom-cap{font-size:13.5px}
+}

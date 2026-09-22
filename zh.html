@@ -262,8 +262,8 @@
         <figcaption>美国俄勒冈州罗格-西斯基尤国家森林，2018 年。便携水箱、水泵、水带、喷头，以及包在建筑上的反射箔。这是当下技术的上限——在火灾当天被搬运到现场。<span class="credit">USDA Forest Service · Kari Greer · public domain</span></figcaption>
       </figure>
       <figure class="shot">
-        <img src="assets/sprinkler-line-field.jpg" alt="" loading="lazy" width="1600" height="1066">
-        <figcaption>美国俄勒冈州杰斐逊县。这不是消防而是灌溉——可它恰好就是我们这条线的几何：等间距的立管、相互重叠的水圈、一条连续的湿带。<span class="credit">NRCS Oregon · CC BY 2.0</span></figcaption>
+        <img src="assets/sprinkler-riser-spraying.jpg" alt="" loading="lazy" width="1600" height="1065">
+        <figcaption>一台摇臂喷头正在灌溉苏格兰东部的一片胡萝卜地。这不是消防——但喷头装在从地里立起的立管上，和我们的完全一样，抛出的正是构成我们那条湿带的水弧。每 20 米一台，水圈就接上了。<span class="credit">Nick Birse · CC BY-SA 4.0</span></figcaption>
       </figure>
     </div>
 
@@ -382,6 +382,42 @@
     <a hreflang="fr" lang="fr" href="fr.html">Français</a>
   </div>
 </footer>
+
+<dialog class="zoom" id="zoom">
+  <button type="button" class="zoom-close" aria-label="关闭">&times;</button>
+  <img alt="">
+  <p class="zoom-cap"></p>
+</dialog>
+
+<script>
+(function () {
+  var dlg = document.getElementById('zoom');
+  if (!dlg || typeof dlg.showModal !== 'function') return;  // no dialog support: leave the page alone
+  var big = dlg.querySelector('img'), cap = dlg.querySelector('.zoom-cap');
+
+  function open(el) {
+    big.src = el.currentSrc || el.src;
+    var fig = el.closest('figure'), fc = fig && fig.querySelector('figcaption');
+    cap.textContent = fc ? fc.textContent.trim() : '';
+    dlg.showModal();
+  }
+
+  Array.prototype.forEach.call(document.querySelectorAll('.band img, .shot img'), function (el) {
+    el.classList.add('zoomable');
+    el.setAttribute('role', 'button');
+    el.setAttribute('tabindex', '0');
+    el.addEventListener('click', function () { open(el); });
+    el.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(el); }
+    });
+  });
+
+  dlg.addEventListener('click', function (e) {
+    if (e.target === dlg || e.target.classList.contains('zoom-close')) dlg.close();
+  });
+  dlg.addEventListener('close', function () { big.removeAttribute('src'); });
+})();
+</script>
 
 </body>
 </html>

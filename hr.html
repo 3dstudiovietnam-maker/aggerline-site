@@ -262,8 +262,8 @@
         <figcaption>Nacionalna šuma Rogue-Siskiyou, Oregon, 2018. Prijenosni spremnici, pumpe, crijeva, rasprskalice i reflektirajuća folija na zgradi. To je vrhunac tehnike — donesen na lice mjesta na dan požara.<span class="credit">USDA Forest Service · Kari Greer · public domain</span></figcaption>
       </figure>
       <figure class="shot">
-        <img src="assets/sprinkler-line-field.jpg" alt="" loading="lazy" width="1600" height="1066">
-        <figcaption>Okrug Jefferson, Oregon. Nije protupožarna zaštita nego navodnjavanje — a ipak je to točno geometrija naše linije: jednako razmaknuti stupovi, krugovi koji se preklapaju, jedan neprekinuti mokri pojas.<span class="credit">NRCS Oregon · CC BY 2.0</span></figcaption>
+        <img src="assets/sprinkler-riser-spraying.jpg" alt="" loading="lazy" width="1600" height="1065">
+        <figcaption>Udarna rasprskalica navodnjava polje mrkve u istočnoj Škotskoj. Nije protupožarna zaštita — ali glava stoji na stupu koji izlazi iz tla, točno kao naša, i baca luk od kojeg je sazdan naš pojas. Jedna svakih 20 metara i krugovi se zatvore.<span class="credit">Nick Birse · CC BY-SA 4.0</span></figcaption>
       </figure>
     </div>
 
@@ -382,6 +382,42 @@
     <a hreflang="fr" lang="fr" href="fr.html">Français</a>
   </div>
 </footer>
+
+<dialog class="zoom" id="zoom">
+  <button type="button" class="zoom-close" aria-label="Zatvori">&times;</button>
+  <img alt="">
+  <p class="zoom-cap"></p>
+</dialog>
+
+<script>
+(function () {
+  var dlg = document.getElementById('zoom');
+  if (!dlg || typeof dlg.showModal !== 'function') return;  // no dialog support: leave the page alone
+  var big = dlg.querySelector('img'), cap = dlg.querySelector('.zoom-cap');
+
+  function open(el) {
+    big.src = el.currentSrc || el.src;
+    var fig = el.closest('figure'), fc = fig && fig.querySelector('figcaption');
+    cap.textContent = fc ? fc.textContent.trim() : '';
+    dlg.showModal();
+  }
+
+  Array.prototype.forEach.call(document.querySelectorAll('.band img, .shot img'), function (el) {
+    el.classList.add('zoomable');
+    el.setAttribute('role', 'button');
+    el.setAttribute('tabindex', '0');
+    el.addEventListener('click', function () { open(el); });
+    el.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(el); }
+    });
+  });
+
+  dlg.addEventListener('click', function (e) {
+    if (e.target === dlg || e.target.classList.contains('zoom-close')) dlg.close();
+  });
+  dlg.addEventListener('close', function () { big.removeAttribute('src'); });
+})();
+</script>
 
 </body>
 </html>

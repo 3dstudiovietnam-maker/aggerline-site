@@ -262,8 +262,8 @@
         <figcaption>Floresta Nacional de Rogue-Siskiyou, Oregon, 2018. Depósitos portáteis, bombas, mangueiras, aspersores e folha reflectora no edifício. É este o estado da arte — transportado para lá no dia do incêndio.<span class="credit">USDA Forest Service · Kari Greer · public domain</span></figcaption>
       </figure>
       <figure class="shot">
-        <img src="assets/sprinkler-line-field.jpg" alt="" loading="lazy" width="1600" height="1066">
-        <figcaption>Condado de Jefferson, Oregon. Não é proteção contra incêndio, é rega — e mesmo assim é exatamente a geometria da nossa linha: colunas a intervalos regulares, círculos que se sobrepõem, uma única faixa húmida contínua.<span class="credit">NRCS Oregon · CC BY 2.0</span></figcaption>
+        <img src="assets/sprinkler-riser-spraying.jpg" alt="" loading="lazy" width="1600" height="1065">
+        <figcaption>Um aspersor de impacto rega um campo de cenouras no leste da Escócia. Não é proteção contra incêndio — mas a cabeça assenta numa coluna que sai do solo, exatamente como a nossa, e lança o arco de que a nossa faixa é feita. Um a cada 20 metros e os círculos fecham.<span class="credit">Nick Birse · CC BY-SA 4.0</span></figcaption>
       </figure>
     </div>
 
@@ -382,6 +382,42 @@
     <a hreflang="fr" lang="fr" href="fr.html">Français</a>
   </div>
 </footer>
+
+<dialog class="zoom" id="zoom">
+  <button type="button" class="zoom-close" aria-label="Fechar">&times;</button>
+  <img alt="">
+  <p class="zoom-cap"></p>
+</dialog>
+
+<script>
+(function () {
+  var dlg = document.getElementById('zoom');
+  if (!dlg || typeof dlg.showModal !== 'function') return;  // no dialog support: leave the page alone
+  var big = dlg.querySelector('img'), cap = dlg.querySelector('.zoom-cap');
+
+  function open(el) {
+    big.src = el.currentSrc || el.src;
+    var fig = el.closest('figure'), fc = fig && fig.querySelector('figcaption');
+    cap.textContent = fc ? fc.textContent.trim() : '';
+    dlg.showModal();
+  }
+
+  Array.prototype.forEach.call(document.querySelectorAll('.band img, .shot img'), function (el) {
+    el.classList.add('zoomable');
+    el.setAttribute('role', 'button');
+    el.setAttribute('tabindex', '0');
+    el.addEventListener('click', function () { open(el); });
+    el.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(el); }
+    });
+  });
+
+  dlg.addEventListener('click', function (e) {
+    if (e.target === dlg || e.target.classList.contains('zoom-close')) dlg.close();
+  });
+  dlg.addEventListener('close', function () { big.removeAttribute('src'); });
+})();
+</script>
 
 </body>
 </html>

@@ -6,7 +6,7 @@ them shows our own work — the site says so in the text, next to the pictures.
 | File | Source | Author | Licence |
 |---|---|---|---|
 | `impact-head.jpg` | Wikimedia Commons, *Impact Sprinkler Mechanism 2* | JJ Harrison (jjharrison.com.au) | CC BY-SA 3.0 |
-| `sprinkler-line-field.jpg` | Wikimedia Commons, *Agency Plains Irrigation Improvements for Water Quality* | NRCS Oregon | CC BY 2.0 |
+| `sprinkler-riser-spraying.jpg` | Wikimedia Commons, *Field irrigation spraying* | Nick Birse | CC BY-SA 4.0 |
 | `structure-sprinklers-running.jpg` | Wikimedia Commons, *Historical building protection* | U.S. Fish and Wildlife Service, Northeast Region | CC BY 2.0 |
 | `structure-protection-oregon.jpg` | Wikimedia Commons, *Fire (20180811-FS-Rogue-KG-0173)* | USDA Forest Service, photo by Kari Greer | Public domain |
 

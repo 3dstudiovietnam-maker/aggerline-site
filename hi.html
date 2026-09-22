@@ -262,8 +262,8 @@
         <figcaption>रोग-सिस्कियू राष्ट्रीय वन, ओरेगन, 2018। चल टैंक, पंप, नलियाँ, स्प्रिंकलर, और इमारत पर परावर्तक पन्नी। यही आज की तकनीक की हद है — आग वाले दिन वहाँ ढोकर लाई गई।<span class="credit">USDA Forest Service · Kari Greer · public domain</span></figcaption>
       </figure>
       <figure class="shot">
-        <img src="assets/sprinkler-line-field.jpg" alt="" loading="lazy" width="1600" height="1066">
-        <figcaption>जेफ़रसन काउंटी, ओरेगन। यह अग्नि-सुरक्षा नहीं, सिंचाई है — फिर भी यह ठीक हमारी रेखा की ज्यामिति है: बराबर दूरी पर खड़े पाइप, एक-दूसरे पर चढ़ते घेरे, एक सतत गीली पट्टी।<span class="credit">NRCS Oregon · CC BY 2.0</span></figcaption>
+        <img src="assets/sprinkler-riser-spraying.jpg" alt="" loading="lazy" width="1600" height="1065">
+        <figcaption>पूर्वी स्कॉटलैंड में एक गाजर के खेत की सिंचाई करता इम्पैक्ट स्प्रिंकलर। यह अग्नि-सुरक्षा नहीं है — पर सिर ज़मीन से उठे पाइप पर टिका है, ठीक हमारे जैसा, और वही चाप फेंकता है जिससे हमारी पट्टी बनती है। हर 20 मीटर पर एक, और घेरे आपस में मिल जाते हैं।<span class="credit">Nick Birse · CC BY-SA 4.0</span></figcaption>
       </figure>
     </div>
 
@@ -382,6 +382,42 @@
     <a hreflang="fr" lang="fr" href="fr.html">Français</a>
   </div>
 </footer>
+
+<dialog class="zoom" id="zoom">
+  <button type="button" class="zoom-close" aria-label="बंद करें">&times;</button>
+  <img alt="">
+  <p class="zoom-cap"></p>
+</dialog>
+
+<script>
+(function () {
+  var dlg = document.getElementById('zoom');
+  if (!dlg || typeof dlg.showModal !== 'function') return;  // no dialog support: leave the page alone
+  var big = dlg.querySelector('img'), cap = dlg.querySelector('.zoom-cap');
+
+  function open(el) {
+    big.src = el.currentSrc || el.src;
+    var fig = el.closest('figure'), fc = fig && fig.querySelector('figcaption');
+    cap.textContent = fc ? fc.textContent.trim() : '';
+    dlg.showModal();
+  }
+
+  Array.prototype.forEach.call(document.querySelectorAll('.band img, .shot img'), function (el) {
+    el.classList.add('zoomable');
+    el.setAttribute('role', 'button');
+    el.setAttribute('tabindex', '0');
+    el.addEventListener('click', function () { open(el); });
+    el.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(el); }
+    });
+  });
+
+  dlg.addEventListener('click', function (e) {
+    if (e.target === dlg || e.target.classList.contains('zoom-close')) dlg.close();
+  });
+  dlg.addEventListener('close', function () { big.removeAttribute('src'); });
+})();
+</script>
 
 </body>
 </html>

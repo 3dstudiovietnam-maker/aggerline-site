@@ -262,8 +262,8 @@
         <figcaption>Foresta Nazionale di Rogue-Siskiyou, Oregon, 2018. Serbatoi mobili, pompe, manichette, irrigatori e foglio riflettente sull'edificio. Questo è lo stato dell'arte — portato sul posto il giorno dell'incendio.<span class="credit">USDA Forest Service · Kari Greer · public domain</span></figcaption>
       </figure>
       <figure class="shot">
-        <img src="assets/sprinkler-line-field.jpg" alt="" loading="lazy" width="1600" height="1066">
-        <figcaption>Contea di Jefferson, Oregon. Non protezione antincendio ma irrigazione — eppure è esattamente la geometria della nostra linea: montanti a passo regolare, cerchi che si sovrappongono, un'unica fascia bagnata continua.<span class="credit">NRCS Oregon · CC BY 2.0</span></figcaption>
+        <img src="assets/sprinkler-riser-spraying.jpg" alt="" loading="lazy" width="1600" height="1065">
+        <figcaption>Un irrigatore a impatto bagna un campo di carote nella Scozia orientale. Non è protezione antincendio — ma la testa è montata su un montante che esce dal terreno, esattamente come la nostra, e lancia l'arco di cui è fatta la nostra fascia. Uno ogni 20 metri e i cerchi si chiudono.<span class="credit">Nick Birse · CC BY-SA 4.0</span></figcaption>
       </figure>
     </div>
 
@@ -382,6 +382,42 @@
     <a hreflang="fr" lang="fr" href="fr.html">Français</a>
   </div>
 </footer>
+
+<dialog class="zoom" id="zoom">
+  <button type="button" class="zoom-close" aria-label="Chiudi">&times;</button>
+  <img alt="">
+  <p class="zoom-cap"></p>
+</dialog>
+
+<script>
+(function () {
+  var dlg = document.getElementById('zoom');
+  if (!dlg || typeof dlg.showModal !== 'function') return;  // no dialog support: leave the page alone
+  var big = dlg.querySelector('img'), cap = dlg.querySelector('.zoom-cap');
+
+  function open(el) {
+    big.src = el.currentSrc || el.src;
+    var fig = el.closest('figure'), fc = fig && fig.querySelector('figcaption');
+    cap.textContent = fc ? fc.textContent.trim() : '';
+    dlg.showModal();
+  }
+
+  Array.prototype.forEach.call(document.querySelectorAll('.band img, .shot img'), function (el) {
+    el.classList.add('zoomable');
+    el.setAttribute('role', 'button');
+    el.setAttribute('tabindex', '0');
+    el.addEventListener('click', function () { open(el); });
+    el.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(el); }
+    });
+  });
+
+  dlg.addEventListener('click', function (e) {
+    if (e.target === dlg || e.target.classList.contains('zoom-close')) dlg.close();
+  });
+  dlg.addEventListener('close', function () { big.removeAttribute('src'); });
+})();
+</script>
 
 </body>
 </html>

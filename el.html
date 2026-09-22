@@ -262,8 +262,8 @@
         <figcaption>Εθνικό Δάσος Rogue-Siskiyou, Όρεγκον, 2018. Φορητές δεξαμενές, αντλίες, μάνικες, εκτοξευτήρες και ανακλαστικό φύλλο στο κτίριο. Αυτή είναι η αιχμή της τεχνικής — μεταφερμένη εκεί την ημέρα της πυρκαγιάς.<span class="credit">USDA Forest Service · Kari Greer · public domain</span></figcaption>
       </figure>
       <figure class="shot">
-        <img src="assets/sprinkler-line-field.jpg" alt="" loading="lazy" width="1600" height="1066">
-        <figcaption>Κομητεία Τζέφερσον, Όρεγκον. Δεν είναι πυροπροστασία αλλά άρδευση — κι όμως είναι ακριβώς η γεωμετρία της γραμμής μας: ιστοί σε ίσες αποστάσεις, κύκλοι που επικαλύπτονται, μία συνεχής υγρή ζώνη.<span class="credit">NRCS Oregon · CC BY 2.0</span></figcaption>
+        <img src="assets/sprinkler-riser-spraying.jpg" alt="" loading="lazy" width="1600" height="1065">
+        <figcaption>Εκτοξευτήρας κρούσης ποτίζει χωράφι με καρότα στην ανατολική Σκωτία. Δεν είναι πυροπροστασία — αλλά η κεφαλή στέκεται σε στήλη που βγαίνει από το έδαφος, ακριβώς όπως η δική μας, και ρίχνει το τόξο από το οποίο φτιάχνεται η ζώνη μας. Ένας κάθε 20 μέτρα και οι κύκλοι κλείνουν.<span class="credit">Nick Birse · CC BY-SA 4.0</span></figcaption>
       </figure>
     </div>
 
@@ -382,6 +382,42 @@
     <a hreflang="fr" lang="fr" href="fr.html">Français</a>
   </div>
 </footer>
+
+<dialog class="zoom" id="zoom">
+  <button type="button" class="zoom-close" aria-label="Κλείσιμο">&times;</button>
+  <img alt="">
+  <p class="zoom-cap"></p>
+</dialog>
+
+<script>
+(function () {
+  var dlg = document.getElementById('zoom');
+  if (!dlg || typeof dlg.showModal !== 'function') return;  // no dialog support: leave the page alone
+  var big = dlg.querySelector('img'), cap = dlg.querySelector('.zoom-cap');
+
+  function open(el) {
+    big.src = el.currentSrc || el.src;
+    var fig = el.closest('figure'), fc = fig && fig.querySelector('figcaption');
+    cap.textContent = fc ? fc.textContent.trim() : '';
+    dlg.showModal();
+  }
+
+  Array.prototype.forEach.call(document.querySelectorAll('.band img, .shot img'), function (el) {
+    el.classList.add('zoomable');
+    el.setAttribute('role', 'button');
+    el.setAttribute('tabindex', '0');
+    el.addEventListener('click', function () { open(el); });
+    el.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(el); }
+    });
+  });
+
+  dlg.addEventListener('click', function (e) {
+    if (e.target === dlg || e.target.classList.contains('zoom-close')) dlg.close();
+  });
+  dlg.addEventListener('close', function () { big.removeAttribute('src'); });
+})();
+</script>
 
 </body>
 </html>
