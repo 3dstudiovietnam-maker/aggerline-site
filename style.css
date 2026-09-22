@@ -136,6 +136,11 @@ footer a{color:var(--ink-2)}
   nav.links > a{display:none}
   table{font-size:14px}
   th,td{padding:10px 8px}
+  /* On a phone the three-column tables are wider than the screen in any
+     language with long words (Greek, Russian, German, Romanian). Let the
+     cells wrap so the page never scrolls sideways. */
+  td.num{white-space:normal}
+  th,td{overflow-wrap:anywhere}
 }
 
 /* ---------- language picker (11 languages, no JavaScript) ---------- */
@@ -147,9 +152,16 @@ footer a{color:var(--ink-2)}
 .langpick summary::after{content:"\25BE";margin-left:7px;font-size:10px;color:var(--muted)}
 .langpick summary:hover{border-color:var(--accent);color:var(--accent)}
 .langpick[open] summary{border-color:var(--accent);color:var(--accent)}
+/* 15 languages in one column would run off a short screen, so the menu is
+   two columns on a normal viewport and scrolls when there is no room. */
 .langpick-menu{position:absolute;right:0;top:calc(100% + 9px);z-index:60;padding:6px;
-  min-width:178px;background:var(--paper-2);border:1px solid var(--line);border-radius:6px;
-  box-shadow:0 12px 34px rgba(13,27,36,.16)}
+  background:var(--paper-2);border:1px solid var(--line);border-radius:6px;
+  box-shadow:0 12px 34px rgba(13,27,36,.16);
+  display:grid;grid-template-columns:repeat(2,minmax(150px,1fr));gap:1px 2px;
+  max-height:calc(100vh - 96px);overflow-y:auto;overscroll-behavior:contain}
+@media (max-width:520px){
+  .langpick-menu{grid-template-columns:1fr;min-width:172px}
+}
 .langpick-item{display:block;padding:8px 12px;border-radius:4px;font-size:14.5px;
   color:var(--ink-2);white-space:nowrap}
 a.langpick-item:hover{background:var(--band-soft);color:var(--ink);text-decoration:none}

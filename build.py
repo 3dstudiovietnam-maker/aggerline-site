@@ -20,13 +20,17 @@ I18N = ROOT / "src" / "i18n"
 BASE = "https://firefence.homes/"
 
 # Display order in the language menu. Also the build order.
-# This is the same set of 11 languages the HealthGuard apps ship with
-# (client/src/lib/translations.ts), in the same order.
-ORDER = ["en", "hu", "hi", "zh", "vi", "de", "es", "pt", "ru", "th", "ro"]
+# The first eleven are the set the HealthGuard apps ship with
+# (client/src/lib/translations.ts), in their order; then the wildfire
+# markets this project actually sells into.
+ORDER = [
+    "en", "hu", "hi", "zh", "vi", "de", "es", "pt", "ru", "th", "ro",
+    "it", "el", "tr", "hr",
+]
 
-# Finished translations that are not in the 11 today. Add a code to ORDER
-# above and it is built and appears in the menu — nothing else to change.
-PARKED = ["fr", "it", "el", "tr", "hr"]
+# Finished translations not published today. Add a code to ORDER above and
+# it is built and appears in the menu — nothing else to change.
+PARKED = ["fr"]
 
 # Keys that are build-time metadata, not page text.
 META = {"_lang", "_native", "_file"}
