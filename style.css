@@ -243,3 +243,9 @@ dialog.zoom img{display:block;max-width:94vw;max-height:80vh;width:auto;height:a
   dialog.zoom img{max-height:68vh}
   .zoom-cap{font-size:13.5px}
 }
+
+/* ---------- engineering drawings ---------- */
+figure.dwg{margin:38px 0 0}
+figure.dwg svg{width:100%;height:auto;display:block;background:var(--paper-2);
+  border:1px solid var(--line);border-radius:6px}
+figure.dwg figcaption{font-size:14.5px;color:var(--muted);margin-top:12px;max-width:74ch;line-height:1.55}
