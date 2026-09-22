@@ -61,6 +61,17 @@ def check_keys(langs):
         for key in sorted(reference & keys):
             if not str(data[key]).strip():
                 problems.append(f"{code}.json: empty value for {key!r}")
+
+        # A new language starts life as a copy of en.json. If it is still
+        # mostly that copy, it was never translated — say so instead of
+        # quietly publishing an English page under another flag.
+        if code != "en":
+            shared = [k for k in reference & keys if str(data[k]) == str(langs["en"][k])]
+            if len(shared) > 0.8 * len(reference):
+                problems.append(
+                    f"{code}.json: {len(shared)} of {len(reference)} values are still "
+                    f"the English text — this language has not been translated"
+                )
     return problems
 
 
