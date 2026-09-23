@@ -116,6 +116,8 @@
   "w3_p": "Şebekeden bağımsızdır, mesele de budur — ama kendi pompası, kendi enerjisi ve ölçülmüş bir verimi gerekir: sulamaya yeten bir sondaj, iki çalışma arasında bir yangın deposunu doldurmayabilir. Su çekimi hemen her yerde izne tabidir.",
   "w4_h": "Şebeke suyu",
   "w4_p": "En basit bağlantı ve çoğu zaman tek seçenek. Olaylar arasında depoyu doldurur, hattı asla doğrudan beslemez: yangın geldiğinde ilk kaybolan iki şey şebeke basıncı ile elektriktir.",
+  "w5_h": "Tanker",
+  "w5_p": "Her yerde çalışır ve kendine ait bir kaynak istemez. Depoda standart itfaiye kaplinleri var; su tankeri, tarımsal su tankı ya da itfaiye aracı onu doldurabilir — yağmurun, arıtma tesisinin ve sondajın olmadığı yerde başvurulacak çözüm, ve bir çalışmadan sonra depoyu yeniden doldurmanın yolu. Depoyu doldurur, hattı asla: bu, şoförsüz çalışsın diye kurulmuş bir sisteme şoförü geri sokardı.",
   "water_loop_lead": "Buharlaşmayan su ise toplanıp yeniden kullanılır.",
   "water_loop": "Hattın içindeki sığ bir kanal, akıp giden suyu — içinde hâlâ köpük varken — depoya geri verir, sistem de onu yeniden basar. Hepsi geri gelmez: rüzgâr sürüklenmesi ve buharlaşma payını alır, eğimli arazide bir kısmı parseli terk eder. Ama geri dönen kısım, bir geçişle üç geçiş arasındaki farktır.",
   "sys_h3_numbers": "Rakamlar",

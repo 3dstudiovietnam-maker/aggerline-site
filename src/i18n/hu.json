@@ -116,6 +116,8 @@
   "w3_p": "Független a hálózattól, és épp ez a lényeg — de saját szivattyú, saját áram és megmért hozam kell hozzá: egy kút, amely öntözésre bőven elég, két indítás között nem biztos, hogy újratölt egy tűzvédelmi tartályt. A vízkivétel szinte mindenhol engedélyköteles.",
   "w4_h": "Hálózati víz",
   "w4_p": "A legegyszerűbb csatlakozás, és gyakran az egyetlen elérhető. Két tűzeset között tölti a tartályt, és soha nem táplálja közvetlenül a vonalat: a hálózati víznyomás és az áram az első kettő, ami elmegy, amikor jön a tűz.",
+  "w5_h": "Tartálykocsi",
+  "w5_p": "Bárhol működik, és nem kell hozzá saját vízforrás. A tartályon szabványos tűzoltó-csatlakozó van, így vizes tartálykocsi, mezőgazdasági szippantó vagy tűzoltóautó is feltöltheti — ez a tartalék ott, ahol nincs eső, nincs szennyvíztisztító és nincs kút, és ez a módja annak, hogy egy menet után újratöltsük. A tartályt tölti, a vonalat soha: az visszatenne egy sofőrt egy olyan rendszerbe, amit épp arra terveztünk, hogy ember nélkül működjön.",
   "water_loop_lead": "Ami pedig nem párolog el, azt összegyűjtjük és újra felhasználjuk.",
   "water_loop": "A vonalon belül futó sekély árok visszavezeti a tartályba, ami lefolyik — még mindig oltóanyaggal együtt —, és a rendszer újra átnyomja. Nem jön vissza mind: a szél elsodor egy részt, egy részt elpárologtat a hő, lejtőn pedig elhagyja a telket. De ami visszatér, az a különbség egy menet és három között.",
   "sys_h3_numbers": "A számok",

@@ -116,6 +116,8 @@
   "w3_p": "Independiente de la red, que es justo de lo que se trata — pero necesita bomba propia, energía propia y un caudal medido: un pozo que basta para riego puede no rellenar un depósito de incendios entre dos disparos. La captación está sujeta a concesión casi en todas partes.",
   "w4_h": "Red municipal",
   "w4_p": "La conexión más sencilla y a menudo la única disponible. Llena el depósito entre episodios y nunca alimenta la línea directamente: la presión de red y la electricidad son las dos primeras cosas que desaparecen cuando llega el fuego.",
+  "w5_h": "Camión cisterna",
+  "w5_p": "Funciona en cualquier sitio y no necesita fuente propia. El depósito lleva racores normalizados de bomberos, así que puede llenarlo un camión cisterna, una cuba agrícola o una autobomba — el recurso allí donde no hay lluvia, ni depuradora, ni pozo, y la forma de volver a llenar el depósito después de una descarga. Llena el depósito, nunca la línea: eso devolvería un conductor a un sistema pensado para funcionar sin él.",
   "water_loop_lead": "Y lo que no se evapora se recoge y se vuelve a usar.",
   "water_loop": "Un canal poco profundo dentro de la línea devuelve al depósito lo que escurre — todavía con espumógeno — y el sistema lo vuelve a pasar. No regresa todo: la deriva por viento y la evaporación se llevan su parte, y en pendiente algo abandona la parcela. Pero lo que vuelve es la diferencia entre una pasada y tres.",
   "sys_h3_numbers": "Los números",

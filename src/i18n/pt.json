@@ -116,6 +116,8 @@
   "w3_p": "Independente da rede, que é precisamente o objetivo — mas precisa de bomba própria, energia própria e caudal medido: um furo que chega para rega pode não encher um depósito de incêndio entre duas descargas. A captação é licenciada em quase todo o lado.",
   "w4_h": "Rede pública",
   "w4_p": "A ligação mais simples e muitas vezes a única disponível. Enche o depósito entre ocorrências e nunca alimenta a linha diretamente: a pressão da rede e a eletricidade são as duas primeiras coisas a faltar quando o fogo chega.",
+  "w5_h": "Camião-cisterna",
+  "w5_p": "Funciona em qualquer lado e não precisa de origem própria. O depósito tem uniões normalizadas de bombeiros, por isso um camião-cisterna, uma cisterna agrícola ou uma autobomba podem enchê-lo — o recurso onde não há chuva, nem ETAR, nem furo, e a forma de voltar a encher o depósito depois de uma descarga. Enche o depósito, nunca a linha: isso poria de volta um condutor num sistema feito para dispensar um.",
   "water_loop_lead": "E o que não evapora é recolhido e usado outra vez.",
   "water_loop": "Uma vala pouco profunda dentro da linha devolve ao depósito o que escorre — ainda com espumífero — e o sistema volta a passá-lo. Não regressa tudo: a deriva pelo vento e a evaporação levam a sua parte, e em declive alguma água sai do terreno. Mas o que volta é a diferença entre uma passagem e três.",
   "sys_h3_numbers": "Os números",

@@ -116,6 +116,8 @@
   "w3_p": "Độc lập với mạng lưới, và đó chính là điều quan trọng — nhưng cần máy bơm riêng, điện riêng và lưu lượng đã được đo: một giếng khoan đủ dùng để tưới chưa chắc bơm đầy được bể chữa cháy giữa hai lần vận hành. Việc khai thác nước gần như ở đâu cũng phải xin phép.",
   "w4_h": "Nước máy",
   "w4_p": "Đấu nối đơn giản nhất và thường là lựa chọn duy nhất. Nó bơm đầy bể giữa các lần sự cố và không bao giờ cấp trực tiếp cho tuyến: áp lực nước máy và điện lưới là hai thứ mất đầu tiên khi lửa tới.",
+  "w5_h": "Xe bồn",
+  "w5_p": "Dùng được ở bất cứ đâu và không cần nguồn nước riêng. Bể có khớp nối chữa cháy tiêu chuẩn, nên xe bồn chở nước, xe téc nông nghiệp hay xe cứu hỏa đều có thể bơm đầy — đây là phương án dự phòng ở nơi không có mưa, không có nhà máy xử lý và không có giếng khoan, đồng thời là cách bơm đầy bể trở lại sau một lượt chạy. Nó bơm đầy bể, chứ không bao giờ cấp thẳng cho tuyến: làm vậy là đưa một người lái xe trở lại vào hệ thống vốn được thiết kế để chạy mà không cần ai.",
   "water_loop_lead": "Còn phần nước không bốc hơi thì được thu lại và dùng tiếp.",
   "water_loop": "Một rãnh nông chạy bên trong tuyến đưa phần nước chảy tràn — vẫn còn chất tạo bọt trong đó — trở về bể, và hệ thống bơm nó đi lại. Không phải tất cả đều quay về: gió thổi bạt và bốc hơi lấy đi một phần, còn trên đất dốc thì một phần chảy khỏi thửa đất. Nhưng phần quay về chính là khác biệt giữa chạy được một lượt và chạy được ba lượt.",
   "sys_h3_numbers": "Các con số",

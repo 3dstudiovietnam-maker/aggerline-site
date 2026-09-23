@@ -116,6 +116,8 @@
   "w3_p": "Indipendente dalla rete, ed è proprio questo il punto — ma servono pompa propria, energia propria e una portata misurata: un pozzo che basta per l'irrigazione può non riempire un serbatoio antincendio fra due avvii. Il prelievo è quasi ovunque soggetto a concessione.",
   "w4_h": "Acquedotto",
   "w4_p": "L'allacciamento più semplice e spesso l'unico disponibile. Riempie il serbatoio fra un evento e l'altro e non alimenta mai la linea direttamente: pressione di rete ed energia elettrica sono le prime due cose a mancare quando arriva il fuoco.",
+  "w5_h": "Autobotte",
+  "w5_p": "Funziona ovunque e non richiede una fonte propria. Il serbatoio ha attacchi normalizzati per i vigili del fuoco, quindi può riempirlo un'autobotte, una cisterna agricola o un mezzo dei vigili — la riserva dove non c'è pioggia, né depuratore, né pozzo, e il modo per riempire di nuovo il serbatoio dopo un passaggio. Riempie il serbatoio, mai la linea: questo rimetterebbe un autista dentro un sistema pensato per farne a meno.",
   "water_loop_lead": "E ciò che non evapora viene raccolto e riusato.",
   "water_loop": "Un canale poco profondo all'interno della linea riporta al serbatoio ciò che defluisce — ancora con schiumogeno — e il sistema lo rimette in circolo. Non torna tutto: deriva da vento ed evaporazione si prendono la loro parte, e in pendenza una quota lascia il lotto. Ma ciò che rientra è la differenza fra un passaggio e tre.",
   "sys_h3_numbers": "I numeri",

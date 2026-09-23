@@ -116,6 +116,8 @@
   "w3_p": "Independent de rețea, și exact asta contează — dar are nevoie de pompă proprie, energie proprie și un debit măsurat: un foraj suficient pentru irigat s-ar putea să nu reumple un rezervor de incendiu între două porniri. Captarea este autorizată aproape peste tot.",
   "w4_h": "Rețea publică",
   "w4_p": "Cel mai simplu racord și, adesea, singurul disponibil. Umple rezervorul între evenimente și nu alimentează niciodată linia direct: presiunea din rețea și curentul electric sunt primele două lucruri care dispar când vine focul.",
+  "w5_h": "Autocisternă",
+  "w5_p": "Funcționează oriunde și nu are nevoie de o sursă proprie. Rezervorul are racorduri standard de pompieri, deci îl poate umple o autocisternă, o cisternă agricolă sau o autospecială — soluția de rezervă acolo unde nu există ploaie, stație de epurare sau foraj, și modul de a reumple rezervorul după o pornire. Umple rezervorul, niciodată linia: asta ar readuce un șofer într-un sistem gândit să se descurce fără el.",
   "water_loop_lead": "Iar ce nu se evaporă este colectat și folosit din nou.",
   "water_loop": "Un canal puțin adânc din interiorul liniei duce înapoi în rezervor ceea ce se scurge — încă având spumant în el — iar sistemul îl trimite din nou prin instalație. Nu se întoarce tot: vântul și evaporarea își iau partea, iar pe pantă o parte părăsește terenul. Dar ceea ce se întoarce este diferența dintre o trecere și trei.",
   "sys_h3_numbers": "Cifrele",

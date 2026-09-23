@@ -116,6 +116,8 @@
   "w3_p": "Unabhängig vom Netz, und genau darum geht es — aber es braucht eigene Pumpe, eigenen Strom und eine gemessene Ergiebigkeit: ein Brunnen, der zum Bewässern reicht, füllt zwischen zwei Läufen nicht unbedingt einen Löschtank. Die Entnahme ist fast überall genehmigungspflichtig.",
   "w4_h": "Leitungswasser",
   "w4_p": "Der einfachste Anschluss und oft der einzige verfügbare. Er füllt den Tank zwischen zwei Ereignissen und speist die Linie nie direkt: Netzdruck und Netzstrom sind die ersten beiden Dinge, die ausfallen, wenn das Feuer kommt.",
+  "w5_h": "Tankwagen",
+  "w5_p": "Funktioniert überall und braucht keine eigene Quelle. Der Tank hat genormte Feuerwehrkupplungen, also kann ihn ein Wassertankwagen, ein landwirtschaftliches Fass oder ein Löschfahrzeug füllen — der Rückfall dort, wo es keinen Regen, keine Kläranlage und keinen Brunnen gibt, und der Weg, den Tank nach einem Lauf wieder zu füllen. Er füllt den Tank, nie die Linie: das setzte einen Fahrer zurück in ein System, das ohne einen auskommen soll.",
   "water_loop_lead": "Und was nicht verdunstet, wird aufgefangen und erneut verwendet.",
   "water_loop": "Eine flache Rinne innerhalb der Linie führt zurück in den Tank, was abläuft — immer noch mit Mittel darin —, und das System schickt es erneut durch. Es kommt nicht alles zurück: Windabdrift und Verdunstung nehmen ihren Anteil, an einem Hang verlässt ein Teil das Grundstück. Aber was zurückkommt, ist der Unterschied zwischen einem Lauf und dreien.",
   "sys_h3_numbers": "Die Zahlen",

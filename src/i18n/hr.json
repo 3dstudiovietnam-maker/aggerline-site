@@ -116,6 +116,8 @@
   "w3_p": "Neovisan o mreži, a upravo je to poanta — ali treba vlastitu pumpu, vlastitu struju i izmjerenu izdašnost: bunar koji je dovoljan za navodnjavanje možda neće napuniti protupožarni spremnik između dva pokretanja. Zahvat je gotovo svugdje pod dozvolom.",
   "w4_h": "Vodovod",
   "w4_p": "Najjednostavniji priključak i često jedini dostupan. Puni spremnik između događaja i nikada ne napaja liniju izravno: tlak u mreži i struja prve su dvije stvari koje nestanu kad vatra dođe.",
+  "w5_h": "Cisterna",
+  "w5_p": "Radi svugdje i ne traži vlastiti izvor. Spremnik ima normirane vatrogasne spojnice, pa ga može napuniti vodena cisterna, poljoprivredna cisterna ili vatrogasno vozilo — rješenje ondje gdje nema kiše, uređaja za pročišćavanje ni bušotine, i način da se spremnik ponovno napuni nakon jednog prolaza. Puni spremnik, nikada liniju: time bi se vozač vratio u sustav koji je zamišljen da radi bez njega.",
   "water_loop_lead": "A ono što ne ispari, skuplja se i koristi ponovno.",
   "water_loop": "Plitki kanal unutar linije vraća u spremnik ono što oteče — još uvijek s pjenilom — i sustav to ponovno propusti. Ne vrati se sve: vjetar i isparavanje uzmu svoje, a na padini dio napusti zemljište. Ali ono što se vrati razlika je između jednog prolaza i tri.",
   "sys_h3_numbers": "Brojke",
