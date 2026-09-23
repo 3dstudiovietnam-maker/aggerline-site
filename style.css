@@ -262,3 +262,14 @@ table.cmp td.mk{text-align:center;white-space:nowrap;width:11%;color:var(--band)
   font-weight:700;font-size:17px}
 table.cmp td.mk.dim{color:#c3ccd1;font-weight:400}
 table.cmp tr.us td.mk{color:var(--accent)}
+
+/* ---------- plain words, for the reader who is not an engineer ---------- */
+ol.plain{list-style:none;counter-reset:pl;margin:34px 0 30px;padding:0;max-width:74ch}
+ol.plain li{counter-increment:pl;position:relative;padding-left:62px;margin-bottom:24px;
+  font-size:19px;line-height:1.6;color:var(--ink-2)}
+ol.plain li::before{content:counter(pl);position:absolute;left:0;top:-4px;
+  font-family:var(--serif);font-size:34px;line-height:1;color:var(--accent)}
+@media (max-width:640px){
+  ol.plain li{padding-left:46px;font-size:17px;margin-bottom:20px}
+  ol.plain li::before{font-size:28px}
+}
